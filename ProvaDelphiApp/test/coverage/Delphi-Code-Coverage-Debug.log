@@ -1,0 +1,1410 @@
+Will track coverage for:uProjetosData
+Will track coverage for:uTarefa1
+Will track coverage for:uTarefa2
+Will track coverage for:uTarefa3
+Will track coverage for:uThreadProgress
+Trying to start ..\Bin\ProvaDelpheAppTest.exe with the Parameters :
+Started successfully
+Create Process:1412 name:..\Bin\ProvaDelpheAppTest.exe
+Adding breakpoints for module:..\Bin\ProvaDelpheAppTest.exe
+Module name "uMdiForm" did not match module from address name "FireDAC.Comp.DataSet" at address:005B1281
+Module name "uspStringList" did not match module from address name "uspQuery" at address:005FBABC
+Module name "uspQuery" did not match module from address name "uTarefa1" at address:005FC67B
+Setting BreakPoint for module: uTarefa1 unit uTarefa1.pas addr:77
+Adding breakpoint for uTarefa1.TufTarefa1.btnGeraSQLClick in uTarefa1.pas
+Creating class info for uTarefa1 class TufTarefa1
+TBreakPoint.Activate:
+Activate uTarefa1.pas line 40 BreakPoint at:009FDAFC
+Setting BreakPoint for module: uTarefa1 unit uTarefa1.pas addr:78
+Adding breakpoint for uTarefa1.TufTarefa1.btnGeraSQLClick in uTarefa1.pas
+TBreakPoint.Activate:
+Activate uTarefa1.pas line 41 BreakPoint at:009FDB1B
+Setting BreakPoint for module: uTarefa1 unit uTarefa1.pas addr:79
+Adding breakpoint for uTarefa1.TufTarefa1.btnGeraSQLClick in uTarefa1.pas
+TBreakPoint.Activate:
+Activate uTarefa1.pas line 42 BreakPoint at:009FDB2F
+Setting BreakPoint for module: uTarefa1 unit uTarefa1.pas addr:80
+Adding breakpoint for uTarefa1.TufTarefa1.btnGeraSQLClick in uTarefa1.pas
+TBreakPoint.Activate:
+Activate uTarefa1.pas line 43 BreakPoint at:009FDB51
+Setting BreakPoint for module: uTarefa1 unit uTarefa1.pas addr:81
+Adding breakpoint for uTarefa1.TufTarefa1.Clear in uTarefa1.pas
+TBreakPoint.Activate:
+Activate uTarefa1.pas line 46 BreakPoint at:009FDB74
+Setting BreakPoint for module: uTarefa1 unit uTarefa1.pas addr:82
+Adding breakpoint for uTarefa1.TufTarefa1.Clear in uTarefa1.pas
+TBreakPoint.Activate:
+Activate uTarefa1.pas line 47 BreakPoint at:009FDB7B
+Setting BreakPoint for module: uTarefa1 unit uTarefa1.pas addr:83
+Adding breakpoint for uTarefa1.TufTarefa1.Clear in uTarefa1.pas
+TBreakPoint.Activate:
+Activate uTarefa1.pas line 48 BreakPoint at:009FDB8F
+Setting BreakPoint for module: uTarefa1 unit uTarefa1.pas addr:84
+Adding breakpoint for uTarefa1.TufTarefa1.Clear in uTarefa1.pas
+TBreakPoint.Activate:
+Activate uTarefa1.pas line 49 BreakPoint at:009FDBA3
+Setting BreakPoint for module: uTarefa1 unit uTarefa1.pas addr:85
+Adding breakpoint for uTarefa1.TufTarefa1.Clear in uTarefa1.pas
+TBreakPoint.Activate:
+Activate uTarefa1.pas line 50 BreakPoint at:009FDBB7
+Setting BreakPoint for module: uTarefa1 unit uTarefa1.pas addr:86
+Adding breakpoint for uTarefa1.TufTarefa1.Clear in uTarefa1.pas
+TBreakPoint.Activate:
+Activate uTarefa1.pas line 51 BreakPoint at:009FDBCB
+Setting BreakPoint for module: uTarefa1 unit uTarefa1.pas addr:87
+Adding breakpoint for uTarefa1.TufTarefa1.FormCreate in uTarefa1.pas
+TBreakPoint.Activate:
+Activate uTarefa1.pas line 54 BreakPoint at:009FDBD0
+Setting BreakPoint for module: uTarefa1 unit uTarefa1.pas addr:88
+Adding breakpoint for uTarefa1.TufTarefa1.FormCreate in uTarefa1.pas
+TBreakPoint.Activate:
+Activate uTarefa1.pas line 55 BreakPoint at:009FDBDC
+Setting BreakPoint for module: uTarefa1 unit uTarefa1.pas addr:89
+Adding breakpoint for uTarefa1.TufTarefa1.FormCreate in uTarefa1.pas
+TBreakPoint.Activate:
+Activate uTarefa1.pas line 56 BreakPoint at:009FDBE7
+Setting BreakPoint for module: uTarefa1 unit uTarefa1.pas addr:90
+Adding breakpoint for uTarefa1.TufTarefa1.FormCreate in uTarefa1.pas
+TBreakPoint.Activate:
+Activate uTarefa1.pas line 57 BreakPoint at:009FDBEF
+Setting BreakPoint for module: uTarefa1 unit uTarefa1.pas addr:91
+Adding breakpoint for uTarefa1.TufTarefa1.GeraSQL in uTarefa1.pas
+TBreakPoint.Activate:
+Activate uTarefa1.pas line 62 BreakPoint at:009FDBF4
+Setting BreakPoint for module: uTarefa1 unit uTarefa1.pas addr:92
+Adding breakpoint for uTarefa1.TufTarefa1.GeraSQL in uTarefa1.pas
+TBreakPoint.Activate:
+Activate uTarefa1.pas line 63 BreakPoint at:009FDC1A
+Setting BreakPoint for module: uTarefa1 unit uTarefa1.pas addr:93
+Adding breakpoint for uTarefa1.TufTarefa1.GeraSQL in uTarefa1.pas
+TBreakPoint.Activate:
+Activate uTarefa1.pas line 65 BreakPoint at:009FDC2C
+Setting BreakPoint for module: uTarefa1 unit uTarefa1.pas addr:94
+Adding breakpoint for uTarefa1.TufTarefa1.GeraSQL in uTarefa1.pas
+TBreakPoint.Activate:
+Activate uTarefa1.pas line 66 BreakPoint at:009FDC50
+Setting BreakPoint for module: uTarefa1 unit uTarefa1.pas addr:95
+Adding breakpoint for uTarefa1.TufTarefa1.GeraSQL in uTarefa1.pas
+TBreakPoint.Activate:
+Activate uTarefa1.pas line 65 BreakPoint at:009FDC7E
+Setting BreakPoint for module: uTarefa1 unit uTarefa1.pas addr:96
+Adding breakpoint for uTarefa1.TufTarefa1.GeraSQL in uTarefa1.pas
+TBreakPoint.Activate:
+Activate uTarefa1.pas line 68 BreakPoint at:009FDC83
+Setting BreakPoint for module: uTarefa1 unit uTarefa1.pas addr:97
+Adding breakpoint for uTarefa1.TufTarefa1.GeraSQL in uTarefa1.pas
+TBreakPoint.Activate:
+Activate uTarefa1.pas line 69 BreakPoint at:009FDCA7
+Setting BreakPoint for module: uTarefa1 unit uTarefa1.pas addr:98
+Adding breakpoint for uTarefa1.TufTarefa1.GeraSQL in uTarefa1.pas
+TBreakPoint.Activate:
+Activate uTarefa1.pas line 68 BreakPoint at:009FDCD5
+Setting BreakPoint for module: uTarefa1 unit uTarefa1.pas addr:99
+Adding breakpoint for uTarefa1.TufTarefa1.GeraSQL in uTarefa1.pas
+TBreakPoint.Activate:
+Activate uTarefa1.pas line 71 BreakPoint at:009FDCDA
+Setting BreakPoint for module: uTarefa1 unit uTarefa1.pas addr:100
+Adding breakpoint for uTarefa1.TufTarefa1.GeraSQL in uTarefa1.pas
+TBreakPoint.Activate:
+Activate uTarefa1.pas line 72 BreakPoint at:009FDCFE
+Setting BreakPoint for module: uTarefa1 unit uTarefa1.pas addr:101
+Adding breakpoint for uTarefa1.TufTarefa1.GeraSQL in uTarefa1.pas
+TBreakPoint.Activate:
+Activate uTarefa1.pas line 71 BreakPoint at:009FDD2C
+Setting BreakPoint for module: uTarefa1 unit uTarefa1.pas addr:102
+Adding breakpoint for uTarefa1.TufTarefa1.GeraSQL in uTarefa1.pas
+TBreakPoint.Activate:
+Activate uTarefa1.pas line 75 BreakPoint at:009FDD31
+Setting BreakPoint for module: uTarefa1 unit uTarefa1.pas addr:103
+Adding breakpoint for uTarefa1.TufTarefa1.GeraSQL in uTarefa1.pas
+TBreakPoint.Activate:
+Activate uTarefa1.pas line 77 BreakPoint at:009FDD39
+Setting BreakPoint for module: uTarefa1 unit uTarefa1.pas addr:104
+Adding breakpoint for uTarefa1.TufTarefa1.GeraSQL in uTarefa1.pas
+TBreakPoint.Activate:
+Activate uTarefa1.pas line 78 BreakPoint at:009FDD49
+Module name "uTarefa1" did not match module from address name "uTestfTarefa1" at address:005FCD77
+Setting BreakPoint for module: uThreadProgress unit uThreadProgress.pas addr:127
+Adding breakpoint for uThreadProgress.TThreadProgress.Create in uThreadProgress.pas
+Creating class info for uThreadProgress class TThreadProgress
+TBreakPoint.Activate:
+Activate uThreadProgress.pas line 42 BreakPoint at:00A18064
+Setting BreakPoint for module: uThreadProgress unit uThreadProgress.pas addr:128
+Adding breakpoint for uThreadProgress.TThreadProgress.Create in uThreadProgress.pas
+TBreakPoint.Activate:
+Activate uThreadProgress.pas line 43 BreakPoint at:00A1807F
+Setting BreakPoint for module: uThreadProgress unit uThreadProgress.pas addr:129
+Adding breakpoint for uThreadProgress.TThreadProgress.Create in uThreadProgress.pas
+TBreakPoint.Activate:
+Activate uThreadProgress.pas line 44 BreakPoint at:00A1808B
+Setting BreakPoint for module: uThreadProgress unit uThreadProgress.pas addr:130
+Adding breakpoint for uThreadProgress.TThreadProgress.Create in uThreadProgress.pas
+TBreakPoint.Activate:
+Activate uThreadProgress.pas line 45 BreakPoint at:00A18094
+Setting BreakPoint for module: uThreadProgress unit uThreadProgress.pas addr:131
+Adding breakpoint for uThreadProgress.TThreadProgress.Create in uThreadProgress.pas
+TBreakPoint.Activate:
+Activate uThreadProgress.pas line 46 BreakPoint at:00A180A5
+Setting BreakPoint for module: uThreadProgress unit uThreadProgress.pas addr:132
+Adding breakpoint for uThreadProgress.TThreadProgress.Create in uThreadProgress.pas
+TBreakPoint.Activate:
+Activate uThreadProgress.pas line 47 BreakPoint at:00A180AD
+Setting BreakPoint for module: uThreadProgress unit uThreadProgress.pas addr:133
+Adding breakpoint for uThreadProgress.TThreadProgress.Create in uThreadProgress.pas
+TBreakPoint.Activate:
+Activate uThreadProgress.pas line 48 BreakPoint at:00A180B7
+Setting BreakPoint for module: uThreadProgress unit uThreadProgress.pas addr:134
+Adding breakpoint for uThreadProgress.TThreadProgress.Create in uThreadProgress.pas
+TBreakPoint.Activate:
+Activate uThreadProgress.pas line 49 BreakPoint at:00A180BE
+Setting BreakPoint for module: uThreadProgress unit uThreadProgress.pas addr:135
+Adding breakpoint for uThreadProgress.TThreadProgress.CreateVisualComponents in uThreadProgress.pas
+TBreakPoint.Activate:
+Activate uThreadProgress.pas line 52 BreakPoint at:00A180E0
+Setting BreakPoint for module: uThreadProgress unit uThreadProgress.pas addr:136
+Adding breakpoint for uThreadProgress.TThreadProgress.CreateVisualComponents in uThreadProgress.pas
+TBreakPoint.Activate:
+Activate uThreadProgress.pas line 53 BreakPoint at:00A180FF
+Setting BreakPoint for module: uThreadProgress unit uThreadProgress.pas addr:137
+Adding breakpoint for uThreadProgress.TThreadProgress.CreateVisualComponents in uThreadProgress.pas
+TBreakPoint.Activate:
+Activate uThreadProgress.pas line 54 BreakPoint at:00A18117
+Setting BreakPoint for module: uThreadProgress unit uThreadProgress.pas addr:138
+Adding breakpoint for uThreadProgress.TThreadProgress.CreateVisualComponents in uThreadProgress.pas
+TBreakPoint.Activate:
+Activate uThreadProgress.pas line 55 BreakPoint at:00A1812B
+Setting BreakPoint for module: uThreadProgress unit uThreadProgress.pas addr:139
+Adding breakpoint for uThreadProgress.TThreadProgress.CreateVisualComponents in uThreadProgress.pas
+TBreakPoint.Activate:
+Activate uThreadProgress.pas line 56 BreakPoint at:00A18138
+Setting BreakPoint for module: uThreadProgress unit uThreadProgress.pas addr:140
+Adding breakpoint for uThreadProgress.TThreadProgress.CreateVisualComponents in uThreadProgress.pas
+TBreakPoint.Activate:
+Activate uThreadProgress.pas line 57 BreakPoint at:00A18145
+Setting BreakPoint for module: uThreadProgress unit uThreadProgress.pas addr:141
+Adding breakpoint for uThreadProgress.TThreadProgress.CreateVisualComponents in uThreadProgress.pas
+TBreakPoint.Activate:
+Activate uThreadProgress.pas line 58 BreakPoint at:00A18152
+Setting BreakPoint for module: uThreadProgress unit uThreadProgress.pas addr:142
+Adding breakpoint for uThreadProgress.TThreadProgress.CreateVisualComponents in uThreadProgress.pas
+TBreakPoint.Activate:
+Activate uThreadProgress.pas line 60 BreakPoint at:00A18162
+Setting BreakPoint for module: uThreadProgress unit uThreadProgress.pas addr:143
+Adding breakpoint for uThreadProgress.TThreadProgress.CreateVisualComponents in uThreadProgress.pas
+TBreakPoint.Activate:
+Activate uThreadProgress.pas line 61 BreakPoint at:00A1817A
+Setting BreakPoint for module: uThreadProgress unit uThreadProgress.pas addr:144
+Adding breakpoint for uThreadProgress.TThreadProgress.CreateVisualComponents in uThreadProgress.pas
+TBreakPoint.Activate:
+Activate uThreadProgress.pas line 62 BreakPoint at:00A1818E
+Setting BreakPoint for module: uThreadProgress unit uThreadProgress.pas addr:145
+Adding breakpoint for uThreadProgress.TThreadProgress.CreateVisualComponents in uThreadProgress.pas
+TBreakPoint.Activate:
+Activate uThreadProgress.pas line 63 BreakPoint at:00A1819B
+Setting BreakPoint for module: uThreadProgress unit uThreadProgress.pas addr:146
+Adding breakpoint for uThreadProgress.TThreadProgress.CreateVisualComponents in uThreadProgress.pas
+TBreakPoint.Activate:
+Activate uThreadProgress.pas line 64 BreakPoint at:00A181AC
+Setting BreakPoint for module: uThreadProgress unit uThreadProgress.pas addr:147
+Adding breakpoint for uThreadProgress.TThreadProgress.CreateVisualComponents in uThreadProgress.pas
+TBreakPoint.Activate:
+Activate uThreadProgress.pas line 65 BreakPoint at:00A181BC
+Setting BreakPoint for module: uThreadProgress unit uThreadProgress.pas addr:148
+Adding breakpoint for uThreadProgress.TThreadProgress.CreateVisualComponents in uThreadProgress.pas
+TBreakPoint.Activate:
+Activate uThreadProgress.pas line 66 BreakPoint at:00A181C9
+Setting BreakPoint for module: uThreadProgress unit uThreadProgress.pas addr:149
+Adding breakpoint for uThreadProgress.TThreadProgress.CreateVisualComponents in uThreadProgress.pas
+TBreakPoint.Activate:
+Activate uThreadProgress.pas line 68 BreakPoint at:00A181D6
+Setting BreakPoint for module: uThreadProgress unit uThreadProgress.pas addr:150
+Adding breakpoint for uThreadProgress.TThreadProgress.CreateVisualComponents in uThreadProgress.pas
+TBreakPoint.Activate:
+Activate uThreadProgress.pas line 69 BreakPoint at:00A181EE
+Setting BreakPoint for module: uThreadProgress unit uThreadProgress.pas addr:151
+Adding breakpoint for uThreadProgress.TThreadProgress.CreateVisualComponents in uThreadProgress.pas
+TBreakPoint.Activate:
+Activate uThreadProgress.pas line 70 BreakPoint at:00A18202
+Setting BreakPoint for module: uThreadProgress unit uThreadProgress.pas addr:152
+Adding breakpoint for uThreadProgress.TThreadProgress.CreateVisualComponents in uThreadProgress.pas
+TBreakPoint.Activate:
+Activate uThreadProgress.pas line 71 BreakPoint at:00A1820F
+Setting BreakPoint for module: uThreadProgress unit uThreadProgress.pas addr:153
+Adding breakpoint for uThreadProgress.TThreadProgress.CreateVisualComponents in uThreadProgress.pas
+TBreakPoint.Activate:
+Activate uThreadProgress.pas line 72 BreakPoint at:00A1821C
+Setting BreakPoint for module: uThreadProgress unit uThreadProgress.pas addr:154
+Adding breakpoint for uThreadProgress.TThreadProgress.CreateVisualComponents in uThreadProgress.pas
+TBreakPoint.Activate:
+Activate uThreadProgress.pas line 73 BreakPoint at:00A18285
+Setting BreakPoint for module: uThreadProgress unit uThreadProgress.pas addr:155
+Adding breakpoint for uThreadProgress.TThreadProgress.Destroy in uThreadProgress.pas
+TBreakPoint.Activate:
+Activate uThreadProgress.pas line 76 BreakPoint at:00A182F8
+Setting BreakPoint for module: uThreadProgress unit uThreadProgress.pas addr:156
+Adding breakpoint for uThreadProgress.TThreadProgress.Destroy in uThreadProgress.pas
+TBreakPoint.Activate:
+Activate uThreadProgress.pas line 77 BreakPoint at:00A18309
+Setting BreakPoint for module: uThreadProgress unit uThreadProgress.pas addr:157
+Adding breakpoint for uThreadProgress.TThreadProgress.Destroy in uThreadProgress.pas
+TBreakPoint.Activate:
+Activate uThreadProgress.pas line 78 BreakPoint at:00A18317
+Setting BreakPoint for module: uThreadProgress unit uThreadProgress.pas addr:158
+Adding breakpoint for uThreadProgress.TThreadProgress.DestroyVisualComponents in uThreadProgress.pas
+TBreakPoint.Activate:
+Activate uThreadProgress.pas line 81 BreakPoint at:00A1832C
+Setting BreakPoint for module: uThreadProgress unit uThreadProgress.pas addr:159
+Adding breakpoint for uThreadProgress.TThreadProgress.DestroyVisualComponents in uThreadProgress.pas
+TBreakPoint.Activate:
+Activate uThreadProgress.pas line 82 BreakPoint at:00A18335
+Setting BreakPoint for module: uThreadProgress unit uThreadProgress.pas addr:160
+Adding breakpoint for uThreadProgress.TThreadProgress.DestroyVisualComponents in uThreadProgress.pas
+TBreakPoint.Activate:
+Activate uThreadProgress.pas line 83 BreakPoint at:00A1833E
+Setting BreakPoint for module: uThreadProgress unit uThreadProgress.pas addr:161
+Adding breakpoint for uThreadProgress.TThreadProgress.DestroyVisualComponents in uThreadProgress.pas
+TBreakPoint.Activate:
+Activate uThreadProgress.pas line 85 BreakPoint at:00A1835E
+Setting BreakPoint for module: uThreadProgress unit uThreadProgress.pas addr:162
+Adding breakpoint for uThreadProgress.TThreadProgress.DestroyVisualComponents in uThreadProgress.pas
+TBreakPoint.Activate:
+Activate uThreadProgress.pas line 86 BreakPoint at:00A18367
+Setting BreakPoint for module: uThreadProgress unit uThreadProgress.pas addr:163
+Adding breakpoint for uThreadProgress.TThreadProgress.DestroyVisualComponents in uThreadProgress.pas
+TBreakPoint.Activate:
+Activate uThreadProgress.pas line 88 BreakPoint at:00A18387
+Setting BreakPoint for module: uThreadProgress unit uThreadProgress.pas addr:164
+Adding breakpoint for uThreadProgress.TThreadProgress.DestroyVisualComponents in uThreadProgress.pas
+TBreakPoint.Activate:
+Activate uThreadProgress.pas line 89 BreakPoint at:00A18390
+Setting BreakPoint for module: uThreadProgress unit uThreadProgress.pas addr:165
+Adding breakpoint for uThreadProgress.TThreadProgress.DestroyVisualComponents in uThreadProgress.pas
+TBreakPoint.Activate:
+Activate uThreadProgress.pas line 90 BreakPoint at:00A183B0
+Setting BreakPoint for module: uThreadProgress unit uThreadProgress.pas addr:166
+Adding breakpoint for uThreadProgress.TThreadProgress.Execute in uThreadProgress.pas
+TBreakPoint.Activate:
+Activate uThreadProgress.pas line 94 BreakPoint at:00A183B4
+Setting BreakPoint for module: uThreadProgress unit uThreadProgress.pas addr:167
+Adding breakpoint for uThreadProgress.TThreadProgress.Execute in uThreadProgress.pas
+TBreakPoint.Activate:
+Activate uThreadProgress.pas line 95 BreakPoint at:00A183DD
+Setting BreakPoint for module: uThreadProgress unit uThreadProgress.pas addr:168
+Adding breakpoint for uThreadProgress.TThreadProgress.Execute in uThreadProgress.pas
+TBreakPoint.Activate:
+Activate uThreadProgress.pas line 96 BreakPoint at:00A183EB
+Setting BreakPoint for module: uThreadProgress unit uThreadProgress.pas addr:169
+Adding breakpoint for uThreadProgress.TThreadProgress.Execute in uThreadProgress.pas
+TBreakPoint.Activate:
+Activate uThreadProgress.pas line 97 BreakPoint at:00A1846C
+Setting BreakPoint for module: uThreadProgress unit uThreadProgress.pas addr:170
+Adding breakpoint for uThreadProgress.TThreadProgress.Execute in uThreadProgress.pas
+TBreakPoint.Activate:
+Activate uThreadProgress.pas line 98 BreakPoint at:00A18474
+Setting BreakPoint for module: uThreadProgress unit uThreadProgress.pas addr:171
+Adding breakpoint for uThreadProgress.TThreadProgress.Execute in uThreadProgress.pas
+TBreakPoint.Activate:
+Activate uThreadProgress.pas line 99 BreakPoint at:00A18485
+Setting BreakPoint for module: uThreadProgress unit uThreadProgress.pas addr:172
+Adding breakpoint for uThreadProgress.TThreadProgress.Execute in uThreadProgress.pas
+TBreakPoint.Activate:
+Activate uThreadProgress.pas line 103 BreakPoint at:00A1849B
+Setting BreakPoint for module: uThreadProgress unit uThreadProgress.pas addr:173
+Adding breakpoint for uThreadProgress.TThreadProgress.Execute in uThreadProgress.pas
+TBreakPoint.Activate:
+Activate uThreadProgress.pas line 104 BreakPoint at:00A184A1
+Setting BreakPoint for module: uThreadProgress unit uThreadProgress.pas addr:174
+Adding breakpoint for uThreadProgress.TThreadProgress.Execute in uThreadProgress.pas
+TBreakPoint.Activate:
+Activate uThreadProgress.pas line 105 BreakPoint at:00A184B2
+Setting BreakPoint for module: uThreadProgress unit uThreadProgress.pas addr:175
+Adding breakpoint for uThreadProgress.TThreadProgress.Execute in uThreadProgress.pas
+TBreakPoint.Activate:
+Activate uThreadProgress.pas line 106 BreakPoint at:00A1851F
+Setting BreakPoint for module: uThreadProgress unit uThreadProgress.pas addr:176
+Adding breakpoint for uThreadProgress.TThreadProgress.Execute in uThreadProgress.pas
+TBreakPoint.Activate:
+Activate uThreadProgress.pas line 101 BreakPoint at:00A1852A
+Setting BreakPoint for module: uThreadProgress unit uThreadProgress.pas addr:177
+Adding breakpoint for uThreadProgress.TThreadProgress.Execute in uThreadProgress.pas
+TBreakPoint.Activate:
+Activate uThreadProgress.pas line 109 BreakPoint at:00A18569
+Setting BreakPoint for module: uThreadProgress unit uThreadProgress.pas addr:178
+Adding breakpoint for uThreadProgress.TThreadProgress.Execute in uThreadProgress.pas
+TBreakPoint.Activate:
+Activate uThreadProgress.pas line 110 BreakPoint at:00A18572
+Setting BreakPoint for module: uThreadProgress unit uThreadProgress.pas addr:179
+Adding breakpoint for uThreadProgress.TThreadProgress.Execute in uThreadProgress.pas
+TBreakPoint.Activate:
+Activate uThreadProgress.pas line 111 BreakPoint at:00A18585
+Setting BreakPoint for module: uThreadProgress unit uThreadProgress.pas addr:180
+Adding breakpoint for uThreadProgress.TThreadProgress.Execute in uThreadProgress.pas
+TBreakPoint.Activate:
+Activate uThreadProgress.pas line 112 BreakPoint at:00A1858D
+Setting BreakPoint for module: uThreadProgress unit uThreadProgress.pas addr:181
+Adding breakpoint for uThreadProgress.TThreadProgress.Execute in uThreadProgress.pas
+TBreakPoint.Activate:
+Activate uThreadProgress.pas line 113 BreakPoint at:00A18595
+Setting BreakPoint for module: uThreadProgress unit uThreadProgress.pas addr:182
+Adding breakpoint for uThreadProgress.TThreadProgress.Execute in uThreadProgress.pas
+TBreakPoint.Activate:
+Activate uThreadProgress.pas line 115 BreakPoint at:00A185A4
+Module name "uThreadProgress" did not match module from address name "uTarefa2" at address:0061764F
+Setting BreakPoint for module: uTarefa2 unit uTarefa2.pas addr:184
+Adding breakpoint for uTarefa2.TufTarefa2.btnCreateThreadClick in uTarefa2.pas
+Creating class info for uTarefa2 class TufTarefa2
+TBreakPoint.Activate:
+Activate uTarefa2.pas line 42 BreakPoint at:00A1A27C
+Setting BreakPoint for module: uTarefa2 unit uTarefa2.pas addr:185
+Adding breakpoint for uTarefa2.TufTarefa2.btnCreateThreadClick in uTarefa2.pas
+TBreakPoint.Activate:
+Activate uTarefa2.pas line 44 BreakPoint at:00A1A288
+Setting BreakPoint for module: uTarefa2 unit uTarefa2.pas addr:186
+Adding breakpoint for uTarefa2.TufTarefa2.btnCreateThreadClick in uTarefa2.pas
+TBreakPoint.Activate:
+Activate uTarefa2.pas line 45 BreakPoint at:00A1A29B
+Setting BreakPoint for module: uTarefa2 unit uTarefa2.pas addr:187
+Adding breakpoint for uTarefa2.TufTarefa2.btnCreateThreadClick in uTarefa2.pas
+TBreakPoint.Activate:
+Activate uTarefa2.pas line 46 BreakPoint at:00A1A2B1
+Setting BreakPoint for module: uTarefa2 unit uTarefa2.pas addr:188
+Adding breakpoint for uTarefa2.TufTarefa2.btnCreateThreadClick in uTarefa2.pas
+TBreakPoint.Activate:
+Activate uTarefa2.pas line 47 BreakPoint at:00A1A2D8
+Setting BreakPoint for module: uTarefa2 unit uTarefa2.pas addr:189
+Adding breakpoint for uTarefa2.TufTarefa2.btnCreateThreadClick in uTarefa2.pas
+TBreakPoint.Activate:
+Activate uTarefa2.pas line 48 BreakPoint at:00A1A2FF
+Setting BreakPoint for module: uTarefa2 unit uTarefa2.pas addr:190
+Adding breakpoint for uTarefa2.TufTarefa2.CreateProgressThread in uTarefa2.pas
+TBreakPoint.Activate:
+Activate uTarefa2.pas line 52 BreakPoint at:00A1A368
+Setting BreakPoint for module: uTarefa2 unit uTarefa2.pas addr:191
+Adding breakpoint for uTarefa2.TufTarefa2.CreateProgressThread in uTarefa2.pas
+TBreakPoint.Activate:
+Activate uTarefa2.pas line 53 BreakPoint at:00A1A377
+Setting BreakPoint for module: uTarefa2 unit uTarefa2.pas addr:192
+Adding breakpoint for uTarefa2.TufTarefa2.CreateProgressThread in uTarefa2.pas
+TBreakPoint.Activate:
+Activate uTarefa2.pas line 54 BreakPoint at:00A1A389
+Setting BreakPoint for module: uTarefa2 unit uTarefa2.pas addr:193
+Adding breakpoint for uTarefa2.TufTarefa2.CreateProgressThread in uTarefa2.pas
+TBreakPoint.Activate:
+Activate uTarefa2.pas line 55 BreakPoint at:00A1A392
+Setting BreakPoint for module: uTarefa2 unit uTarefa2.pas addr:194
+Adding breakpoint for uTarefa2.TufTarefa2.CreateProgressThread in uTarefa2.pas
+TBreakPoint.Activate:
+Activate uTarefa2.pas line 57 BreakPoint at:00A1A39B
+Setting BreakPoint for module: uTarefa2 unit uTarefa2.pas addr:195
+Adding breakpoint for uTarefa2.TufTarefa2.CreateProgressThread in uTarefa2.pas
+TBreakPoint.Activate:
+Activate uTarefa2.pas line 59 BreakPoint at:00A1A3BE
+Setting BreakPoint for module: uTarefa2 unit uTarefa2.pas addr:196
+Adding breakpoint for uTarefa2.TufTarefa2.CreateProgressThread in uTarefa2.pas
+TBreakPoint.Activate:
+Activate uTarefa2.pas line 61 BreakPoint at:00A1A3C6
+Setting BreakPoint for module: uTarefa2 unit uTarefa2.pas addr:197
+Adding breakpoint for uTarefa2.TufTarefa2.CreateProgressThread in uTarefa2.pas
+TBreakPoint.Activate:
+Activate uTarefa2.pas line 63 BreakPoint at:00A1A3CC
+Setting BreakPoint for module: uTarefa2 unit uTarefa2.pas addr:198
+Adding breakpoint for uTarefa2.TufTarefa2.FormCreate in uTarefa2.pas
+TBreakPoint.Activate:
+Activate uTarefa2.pas line 66 BreakPoint at:00A1A3D8
+Setting BreakPoint for module: uTarefa2 unit uTarefa2.pas addr:199
+Adding breakpoint for uTarefa2.TufTarefa2.FormCreate in uTarefa2.pas
+TBreakPoint.Activate:
+Activate uTarefa2.pas line 67 BreakPoint at:00A1A3E4
+Setting BreakPoint for module: uTarefa2 unit uTarefa2.pas addr:200
+Adding breakpoint for uTarefa2.TufTarefa2.FormCreate in uTarefa2.pas
+TBreakPoint.Activate:
+Activate uTarefa2.pas line 68 BreakPoint at:00A1A3EF
+Setting BreakPoint for module: uTarefa2 unit uTarefa2.pas addr:201
+Adding breakpoint for uTarefa2.TufTarefa2.FormCreate in uTarefa2.pas
+TBreakPoint.Activate:
+Activate uTarefa2.pas line 69 BreakPoint at:00A1A406
+Setting BreakPoint for module: uTarefa2 unit uTarefa2.pas addr:202
+Adding breakpoint for uTarefa2.TufTarefa2.FormDestroy in uTarefa2.pas
+TBreakPoint.Activate:
+Activate uTarefa2.pas line 73 BreakPoint at:00A1A40C
+Setting BreakPoint for module: uTarefa2 unit uTarefa2.pas addr:203
+Adding breakpoint for uTarefa2.TufTarefa2.FormDestroy in uTarefa2.pas
+TBreakPoint.Activate:
+Activate uTarefa2.pas line 74 BreakPoint at:00A1A418
+Setting BreakPoint for module: uTarefa2 unit uTarefa2.pas addr:204
+Adding breakpoint for uTarefa2.TufTarefa2.FormDestroy in uTarefa2.pas
+TBreakPoint.Activate:
+Activate uTarefa2.pas line 76 BreakPoint at:00A1A457
+Setting BreakPoint for module: uTarefa2 unit uTarefa2.pas addr:205
+Adding breakpoint for uTarefa2.TufTarefa2.FormDestroy in uTarefa2.pas
+TBreakPoint.Activate:
+Activate uTarefa2.pas line 77 BreakPoint at:00A1A466
+Setting BreakPoint for module: uTarefa2 unit uTarefa2.pas addr:206
+Adding breakpoint for uTarefa2.TufTarefa2.FormDestroy in uTarefa2.pas
+TBreakPoint.Activate:
+Activate uTarefa2.pas line 74 BreakPoint at:00A1A46E
+Setting BreakPoint for module: uTarefa2 unit uTarefa2.pas addr:207
+Adding breakpoint for uTarefa2.TufTarefa2.FormDestroy in uTarefa2.pas
+TBreakPoint.Activate:
+Activate uTarefa2.pas line 78 BreakPoint at:00A1A487
+Setting BreakPoint for module: uTarefa2 unit uTarefa2.pas addr:208
+Adding breakpoint for uTarefa2.TufTarefa2.FormDestroy in uTarefa2.pas
+TBreakPoint.Activate:
+Activate uTarefa2.pas line 80 BreakPoint at:00A1A4A4
+Setting BreakPoint for module: uTarefa2 unit uTarefa2.pas addr:209
+Adding breakpoint for uTarefa2.TufTarefa2.FormDestroy in uTarefa2.pas
+TBreakPoint.Activate:
+Activate uTarefa2.pas line 82 BreakPoint at:00A1A4B2
+Setting BreakPoint for module: uTarefa2 unit uTarefa2.pas addr:210
+Adding breakpoint for uTarefa2.TufTarefa2.TimerTimer in uTarefa2.pas
+TBreakPoint.Activate:
+Activate uTarefa2.pas line 85 BreakPoint at:00A1A4B8
+Setting BreakPoint for module: uTarefa2 unit uTarefa2.pas addr:211
+Adding breakpoint for uTarefa2.TufTarefa2.TimerTimer in uTarefa2.pas
+TBreakPoint.Activate:
+Activate uTarefa2.pas line 87 BreakPoint at:00A1A4DA
+Setting BreakPoint for module: uTarefa2 unit uTarefa2.pas addr:212
+Adding breakpoint for uTarefa2.TufTarefa2.TimerTimer in uTarefa2.pas
+TBreakPoint.Activate:
+Activate uTarefa2.pas line 88 BreakPoint at:00A1A548
+Setting BreakPoint for module: uTarefa2 unit uTarefa2.pas addr:213
+Adding breakpoint for uTarefa2.TufTarefa2.TimerTimer in uTarefa2.pas
+TBreakPoint.Activate:
+Activate uTarefa2.pas line 89 BreakPoint at:00A1A5B6
+Module name "uTestfTarefa2" did not match module from address name "Vcl.Mask" at address:0061D17B
+Setting BreakPoint for module: uProjetosData unit uProjetosData.pas addr:273
+Adding breakpoint for uProjetosData.TProjetoData.Create in uProjetosData.pas
+Creating class info for uProjetosData class TProjetoData
+TBreakPoint.Activate:
+Activate uProjetosData.pas line 31 BreakPoint at:00A8B4C0
+Setting BreakPoint for module: uProjetosData unit uProjetosData.pas addr:274
+Adding breakpoint for uProjetosData.TProjetoData.Create in uProjetosData.pas
+TBreakPoint.Activate:
+Activate uProjetosData.pas line 32 BreakPoint at:00A8B4D8
+Setting BreakPoint for module: uProjetosData unit uProjetosData.pas addr:275
+Adding breakpoint for uProjetosData.TProjetoData.Create in uProjetosData.pas
+TBreakPoint.Activate:
+Activate uProjetosData.pas line 33 BreakPoint at:00A8B4EC
+Setting BreakPoint for module: uProjetosData unit uProjetosData.pas addr:276
+Adding breakpoint for uProjetosData.TProjetoData.Create in uProjetosData.pas
+TBreakPoint.Activate:
+Activate uProjetosData.pas line 34 BreakPoint at:00A8B500
+Setting BreakPoint for module: uProjetosData unit uProjetosData.pas addr:277
+Adding breakpoint for uProjetosData.TProjetoData.Create in uProjetosData.pas
+TBreakPoint.Activate:
+Activate uProjetosData.pas line 35 BreakPoint at:00A8B511
+Setting BreakPoint for module: uProjetosData unit uProjetosData.pas addr:278
+Adding breakpoint for uProjetosData.TProjetoData.Create in uProjetosData.pas
+TBreakPoint.Activate:
+Activate uProjetosData.pas line 36 BreakPoint at:00A8B519
+Setting BreakPoint for module: uProjetosData unit uProjetosData.pas addr:279
+Adding breakpoint for uProjetosData.TProjetoData.CreateFields in uProjetosData.pas
+TBreakPoint.Activate:
+Activate uProjetosData.pas line 40 BreakPoint at:00A8B538
+Setting BreakPoint for module: uProjetosData unit uProjetosData.pas addr:280
+Adding breakpoint for uProjetosData.TProjetoData.CreateFields in uProjetosData.pas
+TBreakPoint.Activate:
+Activate uProjetosData.pas line 41 BreakPoint at:00A8B541
+Setting BreakPoint for module: uProjetosData unit uProjetosData.pas addr:281
+Adding breakpoint for uProjetosData.TProjetoData.CreateFields in uProjetosData.pas
+TBreakPoint.Activate:
+Activate uProjetosData.pas line 42 BreakPoint at:00A8B55A
+Setting BreakPoint for module: uProjetosData unit uProjetosData.pas addr:282
+Adding breakpoint for uProjetosData.TProjetoData.CreateFields in uProjetosData.pas
+TBreakPoint.Activate:
+Activate uProjetosData.pas line 43 BreakPoint at:00A8B573
+Setting BreakPoint for module: uProjetosData unit uProjetosData.pas addr:283
+Adding breakpoint for uProjetosData.TProjetoData.CreateFields in uProjetosData.pas
+TBreakPoint.Activate:
+Activate uProjetosData.pas line 44 BreakPoint at:00A8B58C
+Setting BreakPoint for module: uProjetosData unit uProjetosData.pas addr:284
+Adding breakpoint for uProjetosData.TProjetoData.CreateFields in uProjetosData.pas
+TBreakPoint.Activate:
+Activate uProjetosData.pas line 46 BreakPoint at:00A8B599
+Setting BreakPoint for module: uProjetosData unit uProjetosData.pas addr:285
+Adding breakpoint for uProjetosData.TProjetoData.CreateFields in uProjetosData.pas
+TBreakPoint.Activate:
+Activate uProjetosData.pas line 47 BreakPoint at:00A8B5AD
+Setting BreakPoint for module: uProjetosData unit uProjetosData.pas addr:286
+Adding breakpoint for uProjetosData.TProjetoData.CreateFields in uProjetosData.pas
+TBreakPoint.Activate:
+Activate uProjetosData.pas line 48 BreakPoint at:00A8B5BD
+Setting BreakPoint for module: uProjetosData unit uProjetosData.pas addr:287
+Adding breakpoint for uProjetosData.TProjetoData.CreateFields in uProjetosData.pas
+TBreakPoint.Activate:
+Activate uProjetosData.pas line 49 BreakPoint at:00A8B5CA
+Setting BreakPoint for module: uProjetosData unit uProjetosData.pas addr:288
+Adding breakpoint for uProjetosData.TProjetoData.CreateFields in uProjetosData.pas
+TBreakPoint.Activate:
+Activate uProjetosData.pas line 51 BreakPoint at:00A8B5D4
+Setting BreakPoint for module: uProjetosData unit uProjetosData.pas addr:289
+Adding breakpoint for uProjetosData.TProjetoData.CreateFields in uProjetosData.pas
+TBreakPoint.Activate:
+Activate uProjetosData.pas line 52 BreakPoint at:00A8B5DF
+Setting BreakPoint for module: uProjetosData unit uProjetosData.pas addr:290
+Adding breakpoint for uProjetosData.TProjetoData.CreateFields in uProjetosData.pas
+TBreakPoint.Activate:
+Activate uProjetosData.pas line 53 BreakPoint at:00A8B5EA
+Setting BreakPoint for module: uProjetosData unit uProjetosData.pas addr:291
+Adding breakpoint for uProjetosData.TProjetoData.Destroy in uProjetosData.pas
+TBreakPoint.Activate:
+Activate uProjetosData.pas line 56 BreakPoint at:00A8B688
+Setting BreakPoint for module: uProjetosData unit uProjetosData.pas addr:292
+Adding breakpoint for uProjetosData.TProjetoData.Destroy in uProjetosData.pas
+TBreakPoint.Activate:
+Activate uProjetosData.pas line 57 BreakPoint at:00A8B699
+Setting BreakPoint for module: uProjetosData unit uProjetosData.pas addr:293
+Adding breakpoint for uProjetosData.TProjetoData.Destroy in uProjetosData.pas
+TBreakPoint.Activate:
+Activate uProjetosData.pas line 58 BreakPoint at:00A8B6A4
+Setting BreakPoint for module: uProjetosData unit uProjetosData.pas addr:294
+Adding breakpoint for uProjetosData.TProjetoData.Destroy in uProjetosData.pas
+TBreakPoint.Activate:
+Activate uProjetosData.pas line 59 BreakPoint at:00A8B6AF
+Setting BreakPoint for module: uProjetosData unit uProjetosData.pas addr:295
+Adding breakpoint for uProjetosData.TProjetoData.Destroy in uProjetosData.pas
+TBreakPoint.Activate:
+Activate uProjetosData.pas line 60 BreakPoint at:00A8B6BA
+Setting BreakPoint for module: uProjetosData unit uProjetosData.pas addr:296
+Adding breakpoint for uProjetosData.TProjetoData.Destroy in uProjetosData.pas
+TBreakPoint.Activate:
+Activate uProjetosData.pas line 61 BreakPoint at:00A8B6C8
+Setting BreakPoint for module: uProjetosData unit uProjetosData.pas addr:297
+Adding breakpoint for uProjetosData.TProjetoData.GetTotal in uProjetosData.pas
+TBreakPoint.Activate:
+Activate uProjetosData.pas line 64 BreakPoint at:00A8B6DC
+Setting BreakPoint for module: uProjetosData unit uProjetosData.pas addr:298
+Adding breakpoint for uProjetosData.TProjetoData.GetTotal in uProjetosData.pas
+TBreakPoint.Activate:
+Activate uProjetosData.pas line 65 BreakPoint at:00A8B701
+Setting BreakPoint for module: uProjetosData unit uProjetosData.pas addr:299
+Adding breakpoint for uProjetosData.TProjetoData.GetTotal in uProjetosData.pas
+TBreakPoint.Activate:
+Activate uProjetosData.pas line 66 BreakPoint at:00A8B73C
+Setting BreakPoint for module: uProjetosData unit uProjetosData.pas addr:300
+Adding breakpoint for uProjetosData.TProjetoData.GetTotalDivisoes in uProjetosData.pas
+TBreakPoint.Activate:
+Activate uProjetosData.pas line 70 BreakPoint at:00A8B764
+Setting BreakPoint for module: uProjetosData unit uProjetosData.pas addr:301
+Adding breakpoint for uProjetosData.TProjetoData.GetTotalDivisoes in uProjetosData.pas
+TBreakPoint.Activate:
+Activate uProjetosData.pas line 71 BreakPoint at:00A8B76D
+Setting BreakPoint for module: uProjetosData unit uProjetosData.pas addr:302
+Adding breakpoint for uProjetosData.TProjetoData.GetTotalDivisoes in uProjetosData.pas
+TBreakPoint.Activate:
+Activate uProjetosData.pas line 72 BreakPoint at:00A8B775
+Setting BreakPoint for module: uProjetosData unit uProjetosData.pas addr:303
+Adding breakpoint for uProjetosData.TProjetoData.GetTotalDivisoes in uProjetosData.pas
+TBreakPoint.Activate:
+Activate uProjetosData.pas line 75 BreakPoint at:00A8B782
+Setting BreakPoint for module: uProjetosData unit uProjetosData.pas addr:304
+Adding breakpoint for uProjetosData.TProjetoData.GetTotalDivisoes in uProjetosData.pas
+TBreakPoint.Activate:
+Activate uProjetosData.pas line 76 BreakPoint at:00A8B79E
+Setting BreakPoint for module: uProjetosData unit uProjetosData.pas addr:305
+Adding breakpoint for uProjetosData.TProjetoData.GetTotalDivisoes in uProjetosData.pas
+TBreakPoint.Activate:
+Activate uProjetosData.pas line 77 BreakPoint at:00A8B7A9
+Setting BreakPoint for module: uProjetosData unit uProjetosData.pas addr:306
+Adding breakpoint for uProjetosData.TProjetoData.GetTotalDivisoes in uProjetosData.pas
+TBreakPoint.Activate:
+Activate uProjetosData.pas line 78 BreakPoint at:00A8B7B8
+Setting BreakPoint for module: uProjetosData unit uProjetosData.pas addr:307
+Adding breakpoint for uProjetosData.TProjetoData.GetTotalDivisoes in uProjetosData.pas
+TBreakPoint.Activate:
+Activate uProjetosData.pas line 73 BreakPoint at:00A8B7E4
+Setting BreakPoint for module: uProjetosData unit uProjetosData.pas addr:308
+Adding breakpoint for uProjetosData.TProjetoData.GetTotalDivisoes in uProjetosData.pas
+TBreakPoint.Activate:
+Activate uProjetosData.pas line 81 BreakPoint at:00A8B7F3
+Setting BreakPoint for module: uProjetosData unit uProjetosData.pas addr:309
+Adding breakpoint for uProjetosData.TProjetoData.GetTotalDivisoes in uProjetosData.pas
+TBreakPoint.Activate:
+Activate uProjetosData.pas line 83 BreakPoint at:00A8B814
+Setting BreakPoint for module: uProjetosData unit uProjetosData.pas addr:310
+Adding breakpoint for uProjetosData.TProjetoData.PopulateData in uProjetosData.pas
+TBreakPoint.Activate:
+Activate uProjetosData.pas line 88 BreakPoint at:00A8B820
+Setting BreakPoint for module: uProjetosData unit uProjetosData.pas addr:311
+Adding breakpoint for uProjetosData.TProjetoData.PopulateData in uProjetosData.pas
+TBreakPoint.Activate:
+Activate uProjetosData.pas line 89 BreakPoint at:00A8B83F
+Setting BreakPoint for module: uProjetosData unit uProjetosData.pas addr:312
+Adding breakpoint for uProjetosData.TProjetoData.PopulateData in uProjetosData.pas
+TBreakPoint.Activate:
+Activate uProjetosData.pas line 90 BreakPoint at:00A8B84D
+Setting BreakPoint for module: uProjetosData unit uProjetosData.pas addr:313
+Adding breakpoint for uProjetosData.TProjetoData.PopulateData in uProjetosData.pas
+TBreakPoint.Activate:
+Activate uProjetosData.pas line 91 BreakPoint at:00A8B854
+Setting BreakPoint for module: uProjetosData unit uProjetosData.pas addr:314
+Adding breakpoint for uProjetosData.TProjetoData.PopulateData in uProjetosData.pas
+TBreakPoint.Activate:
+Activate uProjetosData.pas line 92 BreakPoint at:00A8B8D8
+Setting BreakPoint for module: uProjetosData unit uProjetosData.pas addr:315
+Adding breakpoint for uProjetosData.TProjetoData.PopulateData in uProjetosData.pas
+TBreakPoint.Activate:
+Activate uProjetosData.pas line 90 BreakPoint at:00A8B8DB
+Setting BreakPoint for module: uProjetosData unit uProjetosData.pas addr:316
+Adding breakpoint for uProjetosData.TProjetoData.PopulateData in uProjetosData.pas
+TBreakPoint.Activate:
+Activate uProjetosData.pas line 92 BreakPoint at:00A8B8E5
+Module name "uProjetosData" did not match module from address name "uTarefa3" at address:0068A937
+Setting BreakPoint for module: uTarefa3 unit uTarefa3.pas addr:318
+Adding breakpoint for uTarefa3.TufTarefa3.btnObterTotalClick in uTarefa3.pas
+Creating class info for uTarefa3 class TufTarefa3
+TBreakPoint.Activate:
+Activate uTarefa3.pas line 41 BreakPoint at:00A8BE94
+Setting BreakPoint for module: uTarefa3 unit uTarefa3.pas addr:319
+Adding breakpoint for uTarefa3.TufTarefa3.btnObterTotalClick in uTarefa3.pas
+TBreakPoint.Activate:
+Activate uTarefa3.pas line 43 BreakPoint at:00A8BEB3
+Setting BreakPoint for module: uTarefa3 unit uTarefa3.pas addr:320
+Adding breakpoint for uTarefa3.TufTarefa3.btnObterTotalClick in uTarefa3.pas
+TBreakPoint.Activate:
+Activate uTarefa3.pas line 44 BreakPoint at:00A8BF1A
+Setting BreakPoint for module: uTarefa3 unit uTarefa3.pas addr:321
+Adding breakpoint for uTarefa3.TufTarefa3.btnObterTotalDivisoesClick in uTarefa3.pas
+TBreakPoint.Activate:
+Activate uTarefa3.pas line 47 BreakPoint at:00A8BF54
+Setting BreakPoint for module: uTarefa3 unit uTarefa3.pas addr:322
+Adding breakpoint for uTarefa3.TufTarefa3.btnObterTotalDivisoesClick in uTarefa3.pas
+TBreakPoint.Activate:
+Activate uTarefa3.pas line 49 BreakPoint at:00A8BF73
+Setting BreakPoint for module: uTarefa3 unit uTarefa3.pas addr:323
+Adding breakpoint for uTarefa3.TufTarefa3.btnObterTotalDivisoesClick in uTarefa3.pas
+TBreakPoint.Activate:
+Activate uTarefa3.pas line 50 BreakPoint at:00A8BFDA
+Setting BreakPoint for module: uTarefa3 unit uTarefa3.pas addr:324
+Adding breakpoint for uTarefa3.TufTarefa3.FormCreate in uTarefa3.pas
+TBreakPoint.Activate:
+Activate uTarefa3.pas line 53 BreakPoint at:00A8C014
+Setting BreakPoint for module: uTarefa3 unit uTarefa3.pas addr:325
+Adding breakpoint for uTarefa3.TufTarefa3.FormCreate in uTarefa3.pas
+TBreakPoint.Activate:
+Activate uTarefa3.pas line 54 BreakPoint at:00A8C020
+Setting BreakPoint for module: uTarefa3 unit uTarefa3.pas addr:326
+Adding breakpoint for uTarefa3.TufTarefa3.FormCreate in uTarefa3.pas
+TBreakPoint.Activate:
+Activate uTarefa3.pas line 55 BreakPoint at:00A8C02B
+Setting BreakPoint for module: uTarefa3 unit uTarefa3.pas addr:327
+Adding breakpoint for uTarefa3.TufTarefa3.FormCreate in uTarefa3.pas
+TBreakPoint.Activate:
+Activate uTarefa3.pas line 56 BreakPoint at:00A8C040
+Setting BreakPoint for module: uTarefa3 unit uTarefa3.pas addr:328
+Adding breakpoint for uTarefa3.TufTarefa3.FormCreate in uTarefa3.pas
+TBreakPoint.Activate:
+Activate uTarefa3.pas line 57 BreakPoint at:00A8C05A
+Setting BreakPoint for module: uTarefa3 unit uTarefa3.pas addr:329
+Adding breakpoint for uTarefa3.TufTarefa3.FormCreate in uTarefa3.pas
+TBreakPoint.Activate:
+Activate uTarefa3.pas line 58 BreakPoint at:00A8C068
+Setting BreakPoint for module: uTarefa3 unit uTarefa3.pas addr:330
+Adding breakpoint for uTarefa3.TufTarefa3.FormDestroy in uTarefa3.pas
+TBreakPoint.Activate:
+Activate uTarefa3.pas line 61 BreakPoint at:00A8C06C
+Setting BreakPoint for module: uTarefa3 unit uTarefa3.pas addr:331
+Adding breakpoint for uTarefa3.TufTarefa3.FormDestroy in uTarefa3.pas
+TBreakPoint.Activate:
+Activate uTarefa3.pas line 63 BreakPoint at:00A8C078
+Setting BreakPoint for module: uTarefa3 unit uTarefa3.pas addr:332
+Adding breakpoint for uTarefa3.TufTarefa3.FormDestroy in uTarefa3.pas
+TBreakPoint.Activate:
+Activate uTarefa3.pas line 64 BreakPoint at:00A8C086
+Module name "uTarefa3" did not match module from address name "uPrincipal" at address:0068B091
+Module name "uPrincipal" did not match module from address name "uTestfTarefa3" at address:0068B613
+Module ProvaDelpheAppTest skipped
+Module System.Generics.Collections skipped
+Module System.Generics.Defaults skipped
+Module uMdiForm skipped
+Module uPrincipal skipped
+Module uspQuery skipped
+Module uspStringList skipped
+Module uTestFPrincipal skipped
+Module uTestfTarefa1 skipped
+Module uTestfTarefa2 skipped
+Module uTestfTarefa3 skipped
+Done adding  BreakPoints
+ReadProcessMemory error: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída
+GetModuleFileNameEx error: Identificador inválido
+Loading DLL at addr:75A10000 (C:\Windows\SysWOW64\KERNEL32.DLL) size :409600
+Done adding  BreakPoints
+Loading DLL at addr:76100000 (C:\Windows\SysWOW64\KERNELBASE.dll) size :1853952
+Done adding  BreakPoints
+Create thread:8992
+Loading DLL at addr:76CF0000 (C:\Windows\SysWOW64\comdlg32.dll) size :628224
+Done adding  BreakPoints
+Loading DLL at addr:76DC0000 (C:\Windows\SysWOW64\msvcrt.dll) size :723456
+Done adding  BreakPoints
+Loading DLL at addr:71510000 (C:\Windows\SysWOW64\winspool.drv) size :297472
+Done adding  BreakPoints
+Create thread:3876
+Loading DLL at addr:01FD0000 (C:\Windows\SysWOW64\combase.dll) size :2296832
+Done adding  BreakPoints
+WARNING: The module C:\Windows\SysWOW64\combase.dll was already loaded. Skipping breakpoint generation and coverage for subsequent load.
+UnLoading DLL:76900000
+Loading DLL at addr:752C0000 (C:\Windows\SysWOW64\ucrtbase.dll) size :1108480
+Done adding  BreakPoints
+Loading DLL at addr:751A0000 (C:\Windows\SysWOW64\RPCRT4.dll) size :694784
+Done adding  BreakPoints
+Loading DLL at addr:74E70000 (C:\Windows\SysWOW64\SspiCli.dll) size :120832
+Done adding  BreakPoints
+Loading DLL at addr:74F90000 (C:\Windows\SysWOW64\bcryptPrimitives.dll) size :359424
+Done adding  BreakPoints
+Create thread:5092
+Loading DLL at addr:74E60000 (C:\Windows\SysWOW64\CRYPTBASE.dll) size :16384
+Done adding  BreakPoints
+Loading DLL at addr:77340000 (C:\Windows\SysWOW64\kernel.appcore.dll) size :26624
+Done adding  BreakPoints
+Loading DLL at addr:77620000 (C:\Windows\SysWOW64\sechost.dll) size :419840
+Done adding  BreakPoints
+Loading DLL at addr:77170000 (C:\Windows\SysWOW64\bcrypt.dll) size :74752
+Done adding  BreakPoints
+Loading DLL at addr:772B0000 (C:\Windows\SysWOW64\shcore.dll) size :478720
+Done adding  BreakPoints
+Loading DLL at addr:72140000 (C:\Windows\SysWOW64\IPHLPAPI.DLL) size :172032
+Done adding  BreakPoints
+Loading DLL at addr:74FF0000 (C:\Windows\SysWOW64\USER32.dll) size :657408
+Done adding  BreakPoints
+Loading DLL at addr:71FF0000 (C:\Windows\SysWOW64\PROPSYS.dll) size :721408
+Done adding  BreakPoints
+Loading DLL at addr:768E0000 (C:\Windows\SysWOW64\win32u.dll) size :73728
+Done adding  BreakPoints
+Loading DLL at addr:76C50000 (C:\Windows\SysWOW64\OLEAUT32.dll) size :540160
+Done adding  BreakPoints
+Loading DLL at addr:770F0000 (C:\Windows\SysWOW64\msvcp_win.dll) size :454144
+Done adding  BreakPoints
+Loading DLL at addr:75260000 (C:\Windows\SysWOW64\GDI32.dll) size :104448
+Done adding  BreakPoints
+Loading DLL at addr:773B0000 (C:\Windows\SysWOW64\gdi32full.dll) size :1274880
+Done adding  BreakPoints
+Loading DLL at addr:76B80000 (C:\Windows\SysWOW64\SHLWAPI.dll) size :231936
+Done adding  BreakPoints
+Loading DLL at addr:76300000 (C:\Windows\SysWOW64\SHELL32.dll) size :5289472
+Done adding  BreakPoints
+Loading DLL at addr:74D70000 (C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.18362.1139_none_bb61368dec916285\COMCTL32.dll) size :466432
+Done adding  BreakPoints
+Loading DLL at addr:75AF0000 (C:\Windows\SysWOW64\cfgmgr32.dll) size :206336
+Done adding  BreakPoints
+Loading DLL at addr:76BD0000 (C:\Windows\SysWOW64\ADVAPI32.dll) size :421376
+Done adding  BreakPoints
+Loading DLL at addr:75B30000 (C:\Windows\SysWOW64\windows.storage.dll) size :5551104
+Done adding  BreakPoints
+Loading DLL at addr:77290000 (C:\Windows\SysWOW64\profapi.dll) size :79872
+Done adding  BreakPoints
+Loading DLL at addr:74EA0000 (C:\Windows\SysWOW64\powrprof.dll) size :77824
+Done adding  BreakPoints
+Loading DLL at addr:75520000 (C:\Windows\SysWOW64\UMPDC.dll) size :30720
+Done adding  BreakPoints
+Loading DLL at addr:76DA0000 (C:\Windows\SysWOW64\cryptsp.dll) size :49664
+Done adding  BreakPoints
+Loading DLL at addr:77190000 (C:\Windows\SysWOW64\ole32.dll) size :828416
+Done adding  BreakPoints
+Loading DLL at addr:74AA0000 (C:\Windows\SysWOW64\version.dll) size :10752
+Done adding  BreakPoints
+Loading DLL at addr:718A0000 (C:\Windows\SysWOW64\netapi32.dll) size :51712
+Done adding  BreakPoints
+Loading DLL at addr:70140000 (C:\Windows\SysWOW64\SHFolder.dll) size :3584
+Done adding  BreakPoints
+Loading DLL at addr:71850000 (C:\Windows\SysWOW64\NETUTILS.DLL) size :20992
+Done adding  BreakPoints
+Couldn't find BreakPoint for exception address:7775EAA2
+Loading DLL at addr:75290000 (C:\Windows\SysWOW64\IMM32.DLL) size :101376
+Done adding  BreakPoints
+Loading DLL at addr:77510000 (C:\Windows\SysWOW64\Msctf.dll) size :963584
+Done adding  BreakPoints
+Loading DLL at addr:70920000 (C:\Windows\SysWOW64\uxtheme.dll) size :436736
+Done adding  BreakPoints
+Loading DLL at addr:71D80000 (C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.18362.1139_none_e62929aaf8dc83cc\comctl32.DLL) size :1725440
+Done adding  BreakPoints
+Adding coverage:uTarefa1.pas (uTarefa1) 54
+Clearing BreakPoint at 009FDBD0
+De-Activate uTarefa1.pas line 54 BreakPoint at:009FDBD0
+Adding coverage:uTarefa1.pas (uTarefa1) 55
+Clearing BreakPoint at 009FDBDC
+De-Activate uTarefa1.pas line 55 BreakPoint at:009FDBDC
+Adding coverage:uTarefa1.pas (uTarefa1) 56
+Clearing BreakPoint at 009FDBE7
+De-Activate uTarefa1.pas line 56 BreakPoint at:009FDBE7
+Adding coverage:uTarefa1.pas (uTarefa1) 46
+Clearing BreakPoint at 009FDB74
+De-Activate uTarefa1.pas line 46 BreakPoint at:009FDB74
+Adding coverage:uTarefa1.pas (uTarefa1) 47
+Clearing BreakPoint at 009FDB7B
+De-Activate uTarefa1.pas line 47 BreakPoint at:009FDB7B
+Adding coverage:uTarefa1.pas (uTarefa1) 48
+Clearing BreakPoint at 009FDB8F
+De-Activate uTarefa1.pas line 48 BreakPoint at:009FDB8F
+Adding coverage:uTarefa1.pas (uTarefa1) 49
+Clearing BreakPoint at 009FDBA3
+De-Activate uTarefa1.pas line 49 BreakPoint at:009FDBA3
+Adding coverage:uTarefa1.pas (uTarefa1) 50
+Clearing BreakPoint at 009FDBB7
+De-Activate uTarefa1.pas line 50 BreakPoint at:009FDBB7
+Adding coverage:uTarefa1.pas (uTarefa1) 51
+Clearing BreakPoint at 009FDBCB
+De-Activate uTarefa1.pas line 51 BreakPoint at:009FDBCB
+Adding coverage:uTarefa1.pas (uTarefa1) 57
+Clearing BreakPoint at 009FDBEF
+De-Activate uTarefa1.pas line 57 BreakPoint at:009FDBEF
+Loading DLL at addr:6D860000 (C:\Windows\SysWOW64\TextInputFramework.dll) size :484352
+Done adding  BreakPoints
+Loading DLL at addr:6D570000 (C:\Windows\SysWOW64\CoreUIComponents.dll) size :1406976
+Done adding  BreakPoints
+Loading DLL at addr:6D7D0000 (C:\Windows\SysWOW64\CoreMessaging.dll) size :350208
+Done adding  BreakPoints
+Loading DLL at addr:741F0000 (C:\Windows\SysWOW64\ntmarta.dll) size :125440
+Done adding  BreakPoints
+Loading DLL at addr:6D490000 (C:\Windows\SysWOW64\wintypes.dll) size :770048
+Done adding  BreakPoints
+WARNING: The module C:\Windows\SysWOW64\wintypes.dll was already loaded. Skipping breakpoint generation and coverage for subsequent load.
+UnLoading DLL:04390000
+Loading DLL at addr:70150000 (C:\Windows\SysWOW64\iertutil.dll) size :2091008
+Done adding  BreakPoints
+Adding coverage:uTarefa1.pas (uTarefa1) 40
+Clearing BreakPoint at 009FDAFC
+De-Activate uTarefa1.pas line 40 BreakPoint at:009FDAFC
+Adding coverage:uTarefa1.pas (uTarefa1) 41
+Clearing BreakPoint at 009FDB1B
+De-Activate uTarefa1.pas line 41 BreakPoint at:009FDB1B
+Adding coverage:uTarefa1.pas (uTarefa1) 42
+Clearing BreakPoint at 009FDB2F
+De-Activate uTarefa1.pas line 42 BreakPoint at:009FDB2F
+Adding coverage:uTarefa1.pas (uTarefa1) 62
+Clearing BreakPoint at 009FDBF4
+De-Activate uTarefa1.pas line 62 BreakPoint at:009FDBF4
+Adding coverage:uTarefa1.pas (uTarefa1) 63
+Clearing BreakPoint at 009FDC1A
+De-Activate uTarefa1.pas line 63 BreakPoint at:009FDC1A
+Adding coverage:uTarefa1.pas (uTarefa1) 65
+Clearing BreakPoint at 009FDC2C
+De-Activate uTarefa1.pas line 65 BreakPoint at:009FDC2C
+Adding coverage:uTarefa1.pas (uTarefa1) 66
+Clearing BreakPoint at 009FDC50
+De-Activate uTarefa1.pas line 66 BreakPoint at:009FDC50
+Adding coverage:uTarefa1.pas (uTarefa1) 65
+Clearing BreakPoint at 009FDC7E
+De-Activate uTarefa1.pas line 65 BreakPoint at:009FDC7E
+Adding coverage:uTarefa1.pas (uTarefa1) 68
+Clearing BreakPoint at 009FDC83
+De-Activate uTarefa1.pas line 68 BreakPoint at:009FDC83
+Adding coverage:uTarefa1.pas (uTarefa1) 69
+Clearing BreakPoint at 009FDCA7
+De-Activate uTarefa1.pas line 69 BreakPoint at:009FDCA7
+Adding coverage:uTarefa1.pas (uTarefa1) 68
+Clearing BreakPoint at 009FDCD5
+De-Activate uTarefa1.pas line 68 BreakPoint at:009FDCD5
+Adding coverage:uTarefa1.pas (uTarefa1) 71
+Clearing BreakPoint at 009FDCDA
+De-Activate uTarefa1.pas line 71 BreakPoint at:009FDCDA
+Adding coverage:uTarefa1.pas (uTarefa1) 72
+Clearing BreakPoint at 009FDCFE
+De-Activate uTarefa1.pas line 72 BreakPoint at:009FDCFE
+Adding coverage:uTarefa1.pas (uTarefa1) 71
+Clearing BreakPoint at 009FDD2C
+De-Activate uTarefa1.pas line 71 BreakPoint at:009FDD2C
+Adding coverage:uTarefa1.pas (uTarefa1) 75
+Clearing BreakPoint at 009FDD31
+De-Activate uTarefa1.pas line 75 BreakPoint at:009FDD31
+Adding coverage:uTarefa1.pas (uTarefa1) 77
+Clearing BreakPoint at 009FDD39
+De-Activate uTarefa1.pas line 77 BreakPoint at:009FDD39
+Adding coverage:uTarefa1.pas (uTarefa1) 78
+Clearing BreakPoint at 009FDD49
+De-Activate uTarefa1.pas line 78 BreakPoint at:009FDD49
+Adding coverage:uTarefa1.pas (uTarefa1) 43
+Clearing BreakPoint at 009FDB51
+De-Activate uTarefa1.pas line 43 BreakPoint at:009FDB51
+Adding coverage:uTarefa2.pas (uTarefa2) 66
+Clearing BreakPoint at 00A1A3D8
+De-Activate uTarefa2.pas line 66 BreakPoint at:00A1A3D8
+Adding coverage:uTarefa2.pas (uTarefa2) 67
+Clearing BreakPoint at 00A1A3E4
+De-Activate uTarefa2.pas line 67 BreakPoint at:00A1A3E4
+Adding coverage:uTarefa2.pas (uTarefa2) 68
+Clearing BreakPoint at 00A1A3EF
+De-Activate uTarefa2.pas line 68 BreakPoint at:00A1A3EF
+Adding coverage:uTarefa2.pas (uTarefa2) 69
+Clearing BreakPoint at 00A1A406
+De-Activate uTarefa2.pas line 69 BreakPoint at:00A1A406
+Adding coverage:uTarefa2.pas (uTarefa2) 52
+Clearing BreakPoint at 00A1A368
+De-Activate uTarefa2.pas line 52 BreakPoint at:00A1A368
+Adding coverage:uTarefa2.pas (uTarefa2) 53
+Clearing BreakPoint at 00A1A377
+De-Activate uTarefa2.pas line 53 BreakPoint at:00A1A377
+Adding coverage:uThreadProgress.pas (uThreadProgress) 42
+Clearing BreakPoint at 00A18064
+De-Activate uThreadProgress.pas line 42 BreakPoint at:00A18064
+Adding coverage:uThreadProgress.pas (uThreadProgress) 43
+Clearing BreakPoint at 00A1807F
+De-Activate uThreadProgress.pas line 43 BreakPoint at:00A1807F
+Adding coverage:uThreadProgress.pas (uThreadProgress) 44
+Clearing BreakPoint at 00A1808B
+De-Activate uThreadProgress.pas line 44 BreakPoint at:00A1808B
+Adding coverage:uThreadProgress.pas (uThreadProgress) 45
+Clearing BreakPoint at 00A18094
+De-Activate uThreadProgress.pas line 45 BreakPoint at:00A18094
+Adding coverage:uThreadProgress.pas (uThreadProgress) 52
+Clearing BreakPoint at 00A180E0
+De-Activate uThreadProgress.pas line 52 BreakPoint at:00A180E0
+Adding coverage:uThreadProgress.pas (uThreadProgress) 53
+Clearing BreakPoint at 00A180FF
+De-Activate uThreadProgress.pas line 53 BreakPoint at:00A180FF
+Adding coverage:uThreadProgress.pas (uThreadProgress) 54
+Clearing BreakPoint at 00A18117
+De-Activate uThreadProgress.pas line 54 BreakPoint at:00A18117
+Adding coverage:uThreadProgress.pas (uThreadProgress) 55
+Clearing BreakPoint at 00A1812B
+De-Activate uThreadProgress.pas line 55 BreakPoint at:00A1812B
+Adding coverage:uThreadProgress.pas (uThreadProgress) 56
+Clearing BreakPoint at 00A18138
+De-Activate uThreadProgress.pas line 56 BreakPoint at:00A18138
+Adding coverage:uThreadProgress.pas (uThreadProgress) 57
+Clearing BreakPoint at 00A18145
+De-Activate uThreadProgress.pas line 57 BreakPoint at:00A18145
+Adding coverage:uThreadProgress.pas (uThreadProgress) 58
+Clearing BreakPoint at 00A18152
+De-Activate uThreadProgress.pas line 58 BreakPoint at:00A18152
+Adding coverage:uThreadProgress.pas (uThreadProgress) 60
+Clearing BreakPoint at 00A18162
+De-Activate uThreadProgress.pas line 60 BreakPoint at:00A18162
+Adding coverage:uThreadProgress.pas (uThreadProgress) 61
+Clearing BreakPoint at 00A1817A
+De-Activate uThreadProgress.pas line 61 BreakPoint at:00A1817A
+Adding coverage:uThreadProgress.pas (uThreadProgress) 62
+Clearing BreakPoint at 00A1818E
+De-Activate uThreadProgress.pas line 62 BreakPoint at:00A1818E
+Adding coverage:uThreadProgress.pas (uThreadProgress) 63
+Clearing BreakPoint at 00A1819B
+De-Activate uThreadProgress.pas line 63 BreakPoint at:00A1819B
+Adding coverage:uThreadProgress.pas (uThreadProgress) 64
+Clearing BreakPoint at 00A181AC
+De-Activate uThreadProgress.pas line 64 BreakPoint at:00A181AC
+Adding coverage:uThreadProgress.pas (uThreadProgress) 65
+Clearing BreakPoint at 00A181BC
+De-Activate uThreadProgress.pas line 65 BreakPoint at:00A181BC
+Adding coverage:uThreadProgress.pas (uThreadProgress) 66
+Clearing BreakPoint at 00A181C9
+De-Activate uThreadProgress.pas line 66 BreakPoint at:00A181C9
+Adding coverage:uThreadProgress.pas (uThreadProgress) 68
+Clearing BreakPoint at 00A181D6
+De-Activate uThreadProgress.pas line 68 BreakPoint at:00A181D6
+Adding coverage:uThreadProgress.pas (uThreadProgress) 69
+Clearing BreakPoint at 00A181EE
+De-Activate uThreadProgress.pas line 69 BreakPoint at:00A181EE
+Adding coverage:uThreadProgress.pas (uThreadProgress) 70
+Clearing BreakPoint at 00A18202
+De-Activate uThreadProgress.pas line 70 BreakPoint at:00A18202
+Adding coverage:uThreadProgress.pas (uThreadProgress) 71
+Clearing BreakPoint at 00A1820F
+De-Activate uThreadProgress.pas line 71 BreakPoint at:00A1820F
+Adding coverage:uThreadProgress.pas (uThreadProgress) 72
+Clearing BreakPoint at 00A1821C
+De-Activate uThreadProgress.pas line 72 BreakPoint at:00A1821C
+Adding coverage:uThreadProgress.pas (uThreadProgress) 73
+Clearing BreakPoint at 00A18285
+De-Activate uThreadProgress.pas line 73 BreakPoint at:00A18285
+Adding coverage:uThreadProgress.pas (uThreadProgress) 46
+Clearing BreakPoint at 00A180A5
+De-Activate uThreadProgress.pas line 46 BreakPoint at:00A180A5
+Adding coverage:uThreadProgress.pas (uThreadProgress) 47
+Clearing BreakPoint at 00A180AD
+De-Activate uThreadProgress.pas line 47 BreakPoint at:00A180AD
+Adding coverage:uThreadProgress.pas (uThreadProgress) 48
+Clearing BreakPoint at 00A180B7
+De-Activate uThreadProgress.pas line 48 BreakPoint at:00A180B7
+Adding coverage:uThreadProgress.pas (uThreadProgress) 49
+Clearing BreakPoint at 00A180BE
+De-Activate uThreadProgress.pas line 49 BreakPoint at:00A180BE
+Adding coverage:uTarefa2.pas (uTarefa2) 54
+Clearing BreakPoint at 00A1A389
+De-Activate uTarefa2.pas line 54 BreakPoint at:00A1A389
+Adding coverage:uTarefa2.pas (uTarefa2) 55
+Clearing BreakPoint at 00A1A392
+De-Activate uTarefa2.pas line 55 BreakPoint at:00A1A392
+Adding coverage:uTarefa2.pas (uTarefa2) 57
+Clearing BreakPoint at 00A1A39B
+De-Activate uTarefa2.pas line 57 BreakPoint at:00A1A39B
+Adding coverage:uTarefa2.pas (uTarefa2) 59
+Clearing BreakPoint at 00A1A3BE
+De-Activate uTarefa2.pas line 59 BreakPoint at:00A1A3BE
+Adding coverage:uTarefa2.pas (uTarefa2) 61
+Clearing BreakPoint at 00A1A3C6
+De-Activate uTarefa2.pas line 61 BreakPoint at:00A1A3C6
+Adding coverage:uTarefa2.pas (uTarefa2) 63
+Clearing BreakPoint at 00A1A3CC
+De-Activate uTarefa2.pas line 63 BreakPoint at:00A1A3CC
+Create thread:3036
+Adding coverage:uThreadProgress.pas (uThreadProgress) 94
+Clearing BreakPoint at 00A183B4
+De-Activate uThreadProgress.pas line 94 BreakPoint at:00A183B4
+Adding coverage:uThreadProgress.pas (uThreadProgress) 95
+Clearing BreakPoint at 00A183DD
+De-Activate uThreadProgress.pas line 95 BreakPoint at:00A183DD
+Adding coverage:uThreadProgress.pas (uThreadProgress) 96
+Clearing BreakPoint at 00A183EB
+De-Activate uThreadProgress.pas line 96 BreakPoint at:00A183EB
+Adding coverage:uThreadProgress.pas (uThreadProgress) 97
+Clearing BreakPoint at 00A1846C
+De-Activate uThreadProgress.pas line 97 BreakPoint at:00A1846C
+Adding coverage:uThreadProgress.pas (uThreadProgress) 98
+Clearing BreakPoint at 00A18474
+De-Activate uThreadProgress.pas line 98 BreakPoint at:00A18474
+Adding coverage:uThreadProgress.pas (uThreadProgress) 99
+Clearing BreakPoint at 00A18485
+De-Activate uThreadProgress.pas line 99 BreakPoint at:00A18485
+Adding coverage:uThreadProgress.pas (uThreadProgress) 101
+Clearing BreakPoint at 00A1852A
+De-Activate uThreadProgress.pas line 101 BreakPoint at:00A1852A
+Adding coverage:uThreadProgress.pas (uThreadProgress) 103
+Clearing BreakPoint at 00A1849B
+De-Activate uThreadProgress.pas line 103 BreakPoint at:00A1849B
+Adding coverage:uThreadProgress.pas (uThreadProgress) 104
+Clearing BreakPoint at 00A184A1
+De-Activate uThreadProgress.pas line 104 BreakPoint at:00A184A1
+Adding coverage:uThreadProgress.pas (uThreadProgress) 105
+Clearing BreakPoint at 00A184B2
+De-Activate uThreadProgress.pas line 105 BreakPoint at:00A184B2
+Adding coverage:uThreadProgress.pas (uThreadProgress) 106
+Clearing BreakPoint at 00A1851F
+De-Activate uThreadProgress.pas line 106 BreakPoint at:00A1851F
+Adding coverage:uThreadProgress.pas (uThreadProgress) 109
+Clearing BreakPoint at 00A18569
+De-Activate uThreadProgress.pas line 109 BreakPoint at:00A18569
+Adding coverage:uThreadProgress.pas (uThreadProgress) 111
+Clearing BreakPoint at 00A18585
+De-Activate uThreadProgress.pas line 111 BreakPoint at:00A18585
+Adding coverage:uThreadProgress.pas (uThreadProgress) 81
+Clearing BreakPoint at 00A1832C
+De-Activate uThreadProgress.pas line 81 BreakPoint at:00A1832C
+Adding coverage:uThreadProgress.pas (uThreadProgress) 82
+Clearing BreakPoint at 00A18335
+De-Activate uThreadProgress.pas line 82 BreakPoint at:00A18335
+Adding coverage:uThreadProgress.pas (uThreadProgress) 83
+Clearing BreakPoint at 00A1833E
+De-Activate uThreadProgress.pas line 83 BreakPoint at:00A1833E
+Adding coverage:uThreadProgress.pas (uThreadProgress) 85
+Clearing BreakPoint at 00A1835E
+De-Activate uThreadProgress.pas line 85 BreakPoint at:00A1835E
+Adding coverage:uThreadProgress.pas (uThreadProgress) 86
+Clearing BreakPoint at 00A18367
+De-Activate uThreadProgress.pas line 86 BreakPoint at:00A18367
+Adding coverage:uThreadProgress.pas (uThreadProgress) 88
+Clearing BreakPoint at 00A18387
+De-Activate uThreadProgress.pas line 88 BreakPoint at:00A18387
+Adding coverage:uThreadProgress.pas (uThreadProgress) 89
+Clearing BreakPoint at 00A18390
+De-Activate uThreadProgress.pas line 89 BreakPoint at:00A18390
+Adding coverage:uThreadProgress.pas (uThreadProgress) 90
+Clearing BreakPoint at 00A183B0
+De-Activate uThreadProgress.pas line 90 BreakPoint at:00A183B0
+Adding coverage:uThreadProgress.pas (uThreadProgress) 112
+Clearing BreakPoint at 00A1858D
+De-Activate uThreadProgress.pas line 112 BreakPoint at:00A1858D
+Adding coverage:uThreadProgress.pas (uThreadProgress) 113
+Clearing BreakPoint at 00A18595
+De-Activate uThreadProgress.pas line 113 BreakPoint at:00A18595
+Adding coverage:uThreadProgress.pas (uThreadProgress) 115
+Clearing BreakPoint at 00A185A4
+De-Activate uThreadProgress.pas line 115 BreakPoint at:00A185A4
+Thread exit:3036
+Adding coverage:uTarefa2.pas (uTarefa2) 73
+Clearing BreakPoint at 00A1A40C
+De-Activate uTarefa2.pas line 73 BreakPoint at:00A1A40C
+Adding coverage:uTarefa2.pas (uTarefa2) 74
+Clearing BreakPoint at 00A1A418
+De-Activate uTarefa2.pas line 74 BreakPoint at:00A1A418
+Adding coverage:uTarefa2.pas (uTarefa2) 74
+Clearing BreakPoint at 00A1A46E
+De-Activate uTarefa2.pas line 74 BreakPoint at:00A1A46E
+Adding coverage:uTarefa2.pas (uTarefa2) 76
+Clearing BreakPoint at 00A1A457
+De-Activate uTarefa2.pas line 76 BreakPoint at:00A1A457
+Adding coverage:uTarefa2.pas (uTarefa2) 78
+Clearing BreakPoint at 00A1A487
+De-Activate uTarefa2.pas line 78 BreakPoint at:00A1A487
+Adding coverage:uTarefa2.pas (uTarefa2) 80
+Clearing BreakPoint at 00A1A4A4
+De-Activate uTarefa2.pas line 80 BreakPoint at:00A1A4A4
+Adding coverage:uThreadProgress.pas (uThreadProgress) 76
+Clearing BreakPoint at 00A182F8
+De-Activate uThreadProgress.pas line 76 BreakPoint at:00A182F8
+Adding coverage:uThreadProgress.pas (uThreadProgress) 77
+Clearing BreakPoint at 00A18309
+De-Activate uThreadProgress.pas line 77 BreakPoint at:00A18309
+Adding coverage:uThreadProgress.pas (uThreadProgress) 78
+Clearing BreakPoint at 00A18317
+De-Activate uThreadProgress.pas line 78 BreakPoint at:00A18317
+Adding coverage:uTarefa2.pas (uTarefa2) 82
+Clearing BreakPoint at 00A1A4B2
+De-Activate uTarefa2.pas line 82 BreakPoint at:00A1A4B2
+Adding coverage:uTarefa2.pas (uTarefa2) 42
+Clearing BreakPoint at 00A1A27C
+De-Activate uTarefa2.pas line 42 BreakPoint at:00A1A27C
+Adding coverage:uTarefa2.pas (uTarefa2) 44
+Clearing BreakPoint at 00A1A288
+De-Activate uTarefa2.pas line 44 BreakPoint at:00A1A288
+Adding coverage:uTarefa2.pas (uTarefa2) 46
+Clearing BreakPoint at 00A1A2B1
+De-Activate uTarefa2.pas line 46 BreakPoint at:00A1A2B1
+Create thread:7044
+Adding coverage:uTarefa2.pas (uTarefa2) 47
+Clearing BreakPoint at 00A1A2D8
+De-Activate uTarefa2.pas line 47 BreakPoint at:00A1A2D8
+Create thread:8892
+Adding coverage:uTarefa2.pas (uTarefa2) 48
+Clearing BreakPoint at 00A1A2FF
+De-Activate uTarefa2.pas line 48 BreakPoint at:00A1A2FF
+Adding coverage:uTarefa2.pas (uTarefa2) 77
+Clearing BreakPoint at 00A1A466
+De-Activate uTarefa2.pas line 77 BreakPoint at:00A1A466
+Thread exit:8892
+Adding coverage:uThreadProgress.pas (uThreadProgress) 110
+Clearing BreakPoint at 00A18572
+De-Activate uThreadProgress.pas line 110 BreakPoint at:00A18572
+Thread exit:7044
+Adding coverage:uTarefa3.pas (uTarefa3) 53
+Clearing BreakPoint at 00A8C014
+De-Activate uTarefa3.pas line 53 BreakPoint at:00A8C014
+Adding coverage:uTarefa3.pas (uTarefa3) 54
+Clearing BreakPoint at 00A8C020
+De-Activate uTarefa3.pas line 54 BreakPoint at:00A8C020
+Adding coverage:uTarefa3.pas (uTarefa3) 55
+Clearing BreakPoint at 00A8C02B
+De-Activate uTarefa3.pas line 55 BreakPoint at:00A8C02B
+Adding coverage:uProjetosData.pas (uProjetosData) 31
+Clearing BreakPoint at 00A8B4C0
+De-Activate uProjetosData.pas line 31 BreakPoint at:00A8B4C0
+Adding coverage:uProjetosData.pas (uProjetosData) 32
+Clearing BreakPoint at 00A8B4D8
+De-Activate uProjetosData.pas line 32 BreakPoint at:00A8B4D8
+Adding coverage:uProjetosData.pas (uProjetosData) 33
+Clearing BreakPoint at 00A8B4EC
+De-Activate uProjetosData.pas line 33 BreakPoint at:00A8B4EC
+Adding coverage:uProjetosData.pas (uProjetosData) 34
+Clearing BreakPoint at 00A8B500
+De-Activate uProjetosData.pas line 34 BreakPoint at:00A8B500
+Adding coverage:uProjetosData.pas (uProjetosData) 35
+Clearing BreakPoint at 00A8B511
+De-Activate uProjetosData.pas line 35 BreakPoint at:00A8B511
+Adding coverage:uProjetosData.pas (uProjetosData) 40
+Clearing BreakPoint at 00A8B538
+De-Activate uProjetosData.pas line 40 BreakPoint at:00A8B538
+Adding coverage:uProjetosData.pas (uProjetosData) 41
+Clearing BreakPoint at 00A8B541
+De-Activate uProjetosData.pas line 41 BreakPoint at:00A8B541
+Adding coverage:uProjetosData.pas (uProjetosData) 42
+Clearing BreakPoint at 00A8B55A
+De-Activate uProjetosData.pas line 42 BreakPoint at:00A8B55A
+Adding coverage:uProjetosData.pas (uProjetosData) 43
+Clearing BreakPoint at 00A8B573
+De-Activate uProjetosData.pas line 43 BreakPoint at:00A8B573
+Adding coverage:uProjetosData.pas (uProjetosData) 44
+Clearing BreakPoint at 00A8B58C
+De-Activate uProjetosData.pas line 44 BreakPoint at:00A8B58C
+Adding coverage:uProjetosData.pas (uProjetosData) 46
+Clearing BreakPoint at 00A8B599
+De-Activate uProjetosData.pas line 46 BreakPoint at:00A8B599
+Adding coverage:uProjetosData.pas (uProjetosData) 47
+Clearing BreakPoint at 00A8B5AD
+De-Activate uProjetosData.pas line 47 BreakPoint at:00A8B5AD
+Adding coverage:uProjetosData.pas (uProjetosData) 48
+Clearing BreakPoint at 00A8B5BD
+De-Activate uProjetosData.pas line 48 BreakPoint at:00A8B5BD
+Adding coverage:uProjetosData.pas (uProjetosData) 49
+Clearing BreakPoint at 00A8B5CA
+De-Activate uProjetosData.pas line 49 BreakPoint at:00A8B5CA
+Adding coverage:uProjetosData.pas (uProjetosData) 51
+Clearing BreakPoint at 00A8B5D4
+De-Activate uProjetosData.pas line 51 BreakPoint at:00A8B5D4
+Loading DLL at addr:4DAE0000 (C:\Windows\SysWOW64\midas.dll) size :352256
+Done adding  BreakPoints
+Adding coverage:uProjetosData.pas (uProjetosData) 52
+Clearing BreakPoint at 00A8B5DF
+De-Activate uProjetosData.pas line 52 BreakPoint at:00A8B5DF
+Adding coverage:uProjetosData.pas (uProjetosData) 53
+Clearing BreakPoint at 00A8B5EA
+De-Activate uProjetosData.pas line 53 BreakPoint at:00A8B5EA
+Adding coverage:uProjetosData.pas (uProjetosData) 36
+Clearing BreakPoint at 00A8B519
+De-Activate uProjetosData.pas line 36 BreakPoint at:00A8B519
+Adding coverage:uTarefa3.pas (uTarefa3) 56
+Clearing BreakPoint at 00A8C040
+De-Activate uTarefa3.pas line 56 BreakPoint at:00A8C040
+Adding coverage:uTarefa3.pas (uTarefa3) 57
+Clearing BreakPoint at 00A8C05A
+De-Activate uTarefa3.pas line 57 BreakPoint at:00A8C05A
+Adding coverage:uProjetosData.pas (uProjetosData) 88
+Clearing BreakPoint at 00A8B820
+De-Activate uProjetosData.pas line 88 BreakPoint at:00A8B820
+Adding coverage:uProjetosData.pas (uProjetosData) 89
+Clearing BreakPoint at 00A8B83F
+De-Activate uProjetosData.pas line 89 BreakPoint at:00A8B83F
+Adding coverage:uProjetosData.pas (uProjetosData) 90
+Clearing BreakPoint at 00A8B84D
+De-Activate uProjetosData.pas line 90 BreakPoint at:00A8B84D
+Adding coverage:uProjetosData.pas (uProjetosData) 91
+Clearing BreakPoint at 00A8B854
+De-Activate uProjetosData.pas line 91 BreakPoint at:00A8B854
+Adding coverage:uProjetosData.pas (uProjetosData) 92
+Clearing BreakPoint at 00A8B8D8
+De-Activate uProjetosData.pas line 92 BreakPoint at:00A8B8D8
+Adding coverage:uProjetosData.pas (uProjetosData) 90
+Clearing BreakPoint at 00A8B8DB
+De-Activate uProjetosData.pas line 90 BreakPoint at:00A8B8DB
+Adding coverage:uProjetosData.pas (uProjetosData) 92
+Clearing BreakPoint at 00A8B8E5
+De-Activate uProjetosData.pas line 92 BreakPoint at:00A8B8E5
+Adding coverage:uTarefa3.pas (uTarefa3) 58
+Clearing BreakPoint at 00A8C068
+De-Activate uTarefa3.pas line 58 BreakPoint at:00A8C068
+Adding coverage:uTarefa3.pas (uTarefa3) 41
+Clearing BreakPoint at 00A8BE94
+De-Activate uTarefa3.pas line 41 BreakPoint at:00A8BE94
+Adding coverage:uTarefa3.pas (uTarefa3) 43
+Clearing BreakPoint at 00A8BEB3
+De-Activate uTarefa3.pas line 43 BreakPoint at:00A8BEB3
+Adding coverage:uProjetosData.pas (uProjetosData) 64
+Clearing BreakPoint at 00A8B6DC
+De-Activate uProjetosData.pas line 64 BreakPoint at:00A8B6DC
+Adding coverage:uProjetosData.pas (uProjetosData) 65
+Clearing BreakPoint at 00A8B701
+De-Activate uProjetosData.pas line 65 BreakPoint at:00A8B701
+Adding coverage:uProjetosData.pas (uProjetosData) 66
+Clearing BreakPoint at 00A8B73C
+De-Activate uProjetosData.pas line 66 BreakPoint at:00A8B73C
+Adding coverage:uTarefa3.pas (uTarefa3) 44
+Clearing BreakPoint at 00A8BF1A
+De-Activate uTarefa3.pas line 44 BreakPoint at:00A8BF1A
+Adding coverage:uTarefa3.pas (uTarefa3) 47
+Clearing BreakPoint at 00A8BF54
+De-Activate uTarefa3.pas line 47 BreakPoint at:00A8BF54
+Adding coverage:uTarefa3.pas (uTarefa3) 49
+Clearing BreakPoint at 00A8BF73
+De-Activate uTarefa3.pas line 49 BreakPoint at:00A8BF73
+Adding coverage:uProjetosData.pas (uProjetosData) 70
+Clearing BreakPoint at 00A8B764
+De-Activate uProjetosData.pas line 70 BreakPoint at:00A8B764
+Adding coverage:uProjetosData.pas (uProjetosData) 71
+Clearing BreakPoint at 00A8B76D
+De-Activate uProjetosData.pas line 71 BreakPoint at:00A8B76D
+Adding coverage:uProjetosData.pas (uProjetosData) 72
+Clearing BreakPoint at 00A8B775
+De-Activate uProjetosData.pas line 72 BreakPoint at:00A8B775
+Adding coverage:uProjetosData.pas (uProjetosData) 73
+Clearing BreakPoint at 00A8B7E4
+De-Activate uProjetosData.pas line 73 BreakPoint at:00A8B7E4
+Adding coverage:uProjetosData.pas (uProjetosData) 75
+Clearing BreakPoint at 00A8B782
+De-Activate uProjetosData.pas line 75 BreakPoint at:00A8B782
+Adding coverage:uProjetosData.pas (uProjetosData) 76
+Clearing BreakPoint at 00A8B79E
+De-Activate uProjetosData.pas line 76 BreakPoint at:00A8B79E
+Loading DLL at addr:6FC10000 (C:\Windows\SysWOW64\DWMAPI.DLL) size :91136
+Done adding  BreakPoints
+Adding coverage:uProjetosData.pas (uProjetosData) 77
+Clearing BreakPoint at 00A8B7A9
+De-Activate uProjetosData.pas line 77 BreakPoint at:00A8B7A9
+Adding coverage:uProjetosData.pas (uProjetosData) 78
+Clearing BreakPoint at 00A8B7B8
+De-Activate uProjetosData.pas line 78 BreakPoint at:00A8B7B8
+Adding coverage:uProjetosData.pas (uProjetosData) 81
+Clearing BreakPoint at 00A8B7F3
+De-Activate uProjetosData.pas line 81 BreakPoint at:00A8B7F3
+Adding coverage:uProjetosData.pas (uProjetosData) 83
+Clearing BreakPoint at 00A8B814
+De-Activate uProjetosData.pas line 83 BreakPoint at:00A8B814
+Adding coverage:uTarefa3.pas (uTarefa3) 50
+Clearing BreakPoint at 00A8BFDA
+De-Activate uTarefa3.pas line 50 BreakPoint at:00A8BFDA
+Adding coverage:uTarefa3.pas (uTarefa3) 61
+Clearing BreakPoint at 00A8C06C
+De-Activate uTarefa3.pas line 61 BreakPoint at:00A8C06C
+Adding coverage:uTarefa3.pas (uTarefa3) 63
+Clearing BreakPoint at 00A8C078
+De-Activate uTarefa3.pas line 63 BreakPoint at:00A8C078
+Adding coverage:uProjetosData.pas (uProjetosData) 56
+Clearing BreakPoint at 00A8B688
+De-Activate uProjetosData.pas line 56 BreakPoint at:00A8B688
+Adding coverage:uProjetosData.pas (uProjetosData) 57
+Clearing BreakPoint at 00A8B699
+De-Activate uProjetosData.pas line 57 BreakPoint at:00A8B699
+Adding coverage:uProjetosData.pas (uProjetosData) 58
+Clearing BreakPoint at 00A8B6A4
+De-Activate uProjetosData.pas line 58 BreakPoint at:00A8B6A4
+Adding coverage:uProjetosData.pas (uProjetosData) 59
+Clearing BreakPoint at 00A8B6AF
+De-Activate uProjetosData.pas line 59 BreakPoint at:00A8B6AF
+Adding coverage:uProjetosData.pas (uProjetosData) 60
+Clearing BreakPoint at 00A8B6BA
+De-Activate uProjetosData.pas line 60 BreakPoint at:00A8B6BA
+Adding coverage:uProjetosData.pas (uProjetosData) 61
+Clearing BreakPoint at 00A8B6C8
+De-Activate uProjetosData.pas line 61 BreakPoint at:00A8B6C8
+Adding coverage:uTarefa3.pas (uTarefa3) 64
+Clearing BreakPoint at 00A8C086
+De-Activate uTarefa3.pas line 64 BreakPoint at:00A8C086
+Wait For Debug Event timed-out
+UnLoading DLL:00000000
+Create thread:12820
+Create thread:2648
+UnLoading DLL:002F9000
+Thread exit:5092
+Thread exit:3876
+Thread exit:8992
+Thread exit:12820
+Thread exit:2648
+Process 1412 exiting. Exit code :0
+Finished processing debug events
+ProcedureReport
+Generating reports
+Generating coverage report
+Source dir: D:\Projetos\ProvaDelphi\ProvaDelphiApp\test\source\
+Output dir: .\Reports\
+Generating xml coverage report
+Generating EMMA file
+Generating EMMA data for module: ModuleInfo[ modulename=uTarefa3, filename=uTarefa3.pas ]
+Generating EMMA data for class: TufTarefa3
+Generating EMMA data for method: FormDestroy l:3 c:3
+Generating EMMA data for method: btnObterTotalClick l:3 c:3
+Generating EMMA data for method: FormCreate l:6 c:6
+Generating EMMA data for method: btnObterTotalDivisoesClick l:3 c:3
+Generating EMMA data for module: ModuleInfo[ modulename=uThreadProgress, filename=uThreadProgress.pas ]
+Generating EMMA data for class: TThreadProgress
+Generating EMMA data for method: CreateVisualComponents l:20 c:20
+Generating EMMA data for method: DestroyVisualComponents l:8 c:8
+Generating EMMA data for method: Execute l:17 c:17
+Generating EMMA data for method: Destroy l:3 c:3
+Generating EMMA data for method: Create l:8 c:8
+Generating EMMA data for module: ModuleInfo[ modulename=uProjetosData, filename=uProjetosData.pas ]
+Generating EMMA data for class: TProjetoData
+Generating EMMA data for method: GetTotal l:3 c:3
+Generating EMMA data for method: GetTotalDivisoes l:10 c:10
+Generating EMMA data for method: PopulateData l:5 c:5
+Generating EMMA data for method: CreateFields l:12 c:12
+Generating EMMA data for method: Destroy l:6 c:6
+Generating EMMA data for method: Create l:6 c:6
+Generating EMMA data for module: ModuleInfo[ modulename=uTarefa2, filename=uTarefa2.pas ]
+Generating EMMA data for class: TufTarefa2
+Generating EMMA data for method: CreateProgressThread l:8 c:8
+Generating EMMA data for method: TimerTimer l:4 c:0
+Generating EMMA data for method: btnCreateThreadClick l:6 c:5
+Generating EMMA data for method: FormCreate l:4 c:4
+Generating EMMA data for method: FormDestroy l:7 c:7
+Generating EMMA data for module: ModuleInfo[ modulename=uTarefa1, filename=uTarefa1.pas ]
+Generating EMMA data for class: TufTarefa1
+Generating EMMA data for method: GeraSQL l:11 c:11
+Generating EMMA data for method: btnGeraSQLClick l:4 c:4
+Generating EMMA data for method: FormCreate l:4 c:4
+Generating EMMA data for method: Clear l:6 c:6
+Emma file generated
+Finished generating reports
+
+Summary:
+
++-----------+-----------+-----------+
+|   Lines   |  Covered  | Covered % |
++-----------+-----------+-----------+
+|       167 |       162 |      97 % |
++-----------+-----------+-----------+

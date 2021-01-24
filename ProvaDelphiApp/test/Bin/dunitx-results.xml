@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<test-results name="D:\Projetos\ProvaDelphi\ProvaDelphiApp\test\Bin\ProvaDelpheAppTest.exe" total="5" errors="0" failures="0" ignored="0" inconclusive="0" not-run="0" skipped="0" invalid="0" date="2021-01-24" time="0.924">
+  <culture-info current-culture="en" current-uiculture="en" />
+  <test-suite type="Assembly" name="ProvaDelpheAppTest.exe" executed="true" result="Success" success="True" time="0.924" asserts="0">
+    <results>
+        <test-suite type="Namespace" name="uTestFPrincipal" executed="true" result="Success" success="True" time="0.924" asserts="0" >
+          <results>
+              <test-suite type="Fixture" name="TTestfPrincipal" executed="True" result="Success" success="True" time="0.924" >
+                <results>
+                  <test-case name="CriarForm" executed="True" result="Success" success="True" time="0.051" asserts="0" />
+                </results>
+              </test-suite>
+          </results>
+        </test-suite>
+        <test-suite type="Namespace" name="uTestfTarefa1" executed="true" result="Success" success="True" time="0.858" asserts="0" >
+          <results>
+              <test-suite type="Fixture" name="TTestfTarefa1" executed="True" result="Success" success="True" time="0.858" >
+                <results>
+                  <test-case name="GeraSQL" executed="True" result="Success" success="True" time="0.009" asserts="0" />
+                </results>
+              </test-suite>
+          </results>
+        </test-suite>
+        <test-suite type="Namespace" name="uTestfTarefa2" executed="true" result="Success" success="True" time="0.825" asserts="0" >
+          <results>
+              <test-suite type="Fixture" name="TTestfTarefa2" executed="True" result="Success" success="True" time="0.825" >
+                <results>
+                  <test-case name="CreateProgressThread.Teste thread 1" executed="True" result="Success" success="True" time="0.687" asserts="0" />
+                  <test-case name="TestButtons" executed="True" result="Success" success="True" time="0.016" asserts="0" />
+                </results>
+              </test-suite>
+          </results>
+        </test-suite>
+        <test-suite type="Namespace" name="uTestfTarefa3" executed="true" result="Success" success="True" time="0.060" asserts="0" >
+          <results>
+              <test-suite type="Fixture" name="TTestfTarefa3" executed="True" result="Success" success="True" time="0.060" >
+                <results>
+                  <test-case name="TestButtons" executed="True" result="Success" success="True" time="0.033" asserts="0" />
+                </results>
+              </test-suite>
+          </results>
+        </test-suite>
+    </results>
+  </test-suite>
+</test-results>

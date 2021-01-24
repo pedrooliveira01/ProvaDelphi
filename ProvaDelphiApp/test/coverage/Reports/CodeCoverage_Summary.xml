@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<report>
+  <stats>
+    <packages value="5"/>
+    <classes value="5"/>
+    <methods value="24"/>
+    <srcfiles value="5"/>
+    <srclines value="167"/>
+    <totallines value="167"/>
+    <coveredlines value="162"/>
+    <coveredpercent value="97"/>
+  </stats>
+  <data>
+    <all name="all classes">
+      <coverage type="class, %" value="100%   (5/5)"/>
+      <coverage type="method, %" value="96%   (23/24)"/>
+      <coverage type="block, %" value="97%   (162/167)"/>
+      <coverage type="line, %" value="97%   (162/167)"/>
+      <package name="uTarefa3">
+        <coverage type="class, %" value="100%   (1/1)"/>
+        <coverage type="method, %" value="100%   (4/4)"/>
+        <coverage type="block, %" value="100%   (15/15)"/>
+        <coverage type="line, %" value="100%   (15/15)"/>
+        <srcfile name="uTarefa3.pas">
+          <coverage type="class, %" value="100%   (1/1)"/>
+          <coverage type="method, %" value="100%   (4/4)"/>
+          <coverage type="block, %" value="100%   (15/15)"/>
+          <coverage type="line, %" value="100%   (15/15)"/>
+          <class name="TufTarefa3">
+            <coverage type="class, %" value="100%   (1/1)"/>
+            <coverage type="method, %" value="100%   (4/4)"/>
+            <coverage type="block, %" value="100%   (15/15)"/>
+            <coverage type="line, %" value="100%   (15/15)"/>
+            <method name="FormDestroy">
+              <coverage type="method, %" value="100%   (1/1)"/>
+              <coverage type="block, %" value="100%   (3/3)"/>
+              <coverage type="line, %" value="100%   (3/3)"/>
+            </method>
+            <method name="btnObterTotalClick">
+              <coverage type="method, %" value="100%   (1/1)"/>
+              <coverage type="block, %" value="100%   (3/3)"/>
+              <coverage type="line, %" value="100%   (3/3)"/>
+            </method>
+            <method name="FormCreate">
+              <coverage type="method, %" value="100%   (1/1)"/>
+              <coverage type="block, %" value="100%   (6/6)"/>
+              <coverage type="line, %" value="100%   (6/6)"/>
+            </method>
+            <method name="btnObterTotalDivisoesClick">
+              <coverage type="method, %" value="100%   (1/1)"/>
+              <coverage type="block, %" value="100%   (3/3)"/>
+              <coverage type="line, %" value="100%   (3/3)"/>
+            </method>
+          </class>
+        </srcfile>
+      </package>
+      <package name="uThreadProgress">
+        <coverage type="class, %" value="100%   (1/1)"/>
+        <coverage type="method, %" value="100%   (5/5)"/>
+        <coverage type="block, %" value="100%   (56/56)"/>
+        <coverage type="line, %" value="100%   (56/56)"/>
+        <srcfile name="uThreadProgress.pas">
+          <coverage type="class, %" value="100%   (1/1)"/>
+          <coverage type="method, %" value="100%   (5/5)"/>
+          <coverage type="block, %" value="100%   (56/56)"/>
+          <coverage type="line, %" value="100%   (56/56)"/>
+          <class name="TThreadProgress">
+            <coverage type="class, %" value="100%   (1/1)"/>
+            <coverage type="method, %" value="100%   (5/5)"/>
+            <coverage type="block, %" value="100%   (56/56)"/>
+            <coverage type="line, %" value="100%   (56/56)"/>
+            <method name="CreateVisualComponents">
+              <coverage type="method, %" value="100%   (1/1)"/>
+              <coverage type="block, %" value="100%   (20/20)"/>
+              <coverage type="line, %" value="100%   (20/20)"/>
+            </method>
+            <method name="DestroyVisualComponents">
+              <coverage type="method, %" value="100%   (1/1)"/>
+              <coverage type="block, %" value="100%   (8/8)"/>
+              <coverage type="line, %" value="100%   (8/8)"/>
+            </method>
+            <method name="Execute">
+              <coverage type="method, %" value="100%   (1/1)"/>
+              <coverage type="block, %" value="100%   (17/17)"/>
+              <coverage type="line, %" value="100%   (17/17)"/>
+            </method>
+            <method name="Destroy">
+              <coverage type="method, %" value="100%   (1/1)"/>
+              <coverage type="block, %" value="100%   (3/3)"/>
+              <coverage type="line, %" value="100%   (3/3)"/>
+            </method>
+            <method name="Create">
+              <coverage type="method, %" value="100%   (1/1)"/>
+              <coverage type="block, %" value="100%   (8/8)"/>
+              <coverage type="line, %" value="100%   (8/8)"/>
+            </method>
+          </class>
+        </srcfile>
+      </package>
+      <package name="uProjetosData">
+        <coverage type="class, %" value="100%   (1/1)"/>
+        <coverage type="method, %" value="100%   (6/6)"/>
+        <coverage type="block, %" value="100%   (42/42)"/>
+        <coverage type="line, %" value="100%   (42/42)"/>
+        <srcfile name="uProjetosData.pas">
+          <coverage type="class, %" value="100%   (1/1)"/>
+          <coverage type="method, %" value="100%   (6/6)"/>
+          <coverage type="block, %" value="100%   (42/42)"/>
+          <coverage type="line, %" value="100%   (42/42)"/>
+          <class name="TProjetoData">
+            <coverage type="class, %" value="100%   (1/1)"/>
+            <coverage type="method, %" value="100%   (6/6)"/>
+            <coverage type="block, %" value="100%   (42/42)"/>
+            <coverage type="line, %" value="100%   (42/42)"/>
+            <method name="GetTotal">
+              <coverage type="method, %" value="100%   (1/1)"/>
+              <coverage type="block, %" value="100%   (3/3)"/>
+              <coverage type="line, %" value="100%   (3/3)"/>
+            </method>
+            <method name="GetTotalDivisoes">
+              <coverage type="method, %" value="100%   (1/1)"/>
+              <coverage type="block, %" value="100%   (10/10)"/>
+              <coverage type="line, %" value="100%   (10/10)"/>
+            </method>
+            <method name="PopulateData">
+              <coverage type="method, %" value="100%   (1/1)"/>
+              <coverage type="block, %" value="100%   (5/5)"/>
+              <coverage type="line, %" value="100%   (5/5)"/>
+            </method>
+            <method name="CreateFields">
+              <coverage type="method, %" value="100%   (1/1)"/>
+              <coverage type="block, %" value="100%   (12/12)"/>
+              <coverage type="line, %" value="100%   (12/12)"/>
+            </method>
+            <method name="Destroy">
+              <coverage type="method, %" value="100%   (1/1)"/>
+              <coverage type="block, %" value="100%   (6/6)"/>
+              <coverage type="line, %" value="100%   (6/6)"/>
+            </method>
+            <method name="Create">
+              <coverage type="method, %" value="100%   (1/1)"/>
+              <coverage type="block, %" value="100%   (6/6)"/>
+              <coverage type="line, %" value="100%   (6/6)"/>
+            </method>
+          </class>
+        </srcfile>
+      </package>
+      <package name="uTarefa2">
+        <coverage type="class, %" value="100%   (1/1)"/>
+        <coverage type="method, %" value="80%   (4/5)"/>
+        <coverage type="block, %" value="83%   (24/29)"/>
+        <coverage type="line, %" value="83%   (24/29)"/>
+        <srcfile name="uTarefa2.pas">
+          <coverage type="class, %" value="100%   (1/1)"/>
+          <coverage type="method, %" value="80%   (4/5)"/>
+          <coverage type="block, %" value="83%   (24/29)"/>
+          <coverage type="line, %" value="83%   (24/29)"/>
+          <class name="TufTarefa2">
+            <coverage type="class, %" value="100%   (1/1)"/>
+            <coverage type="method, %" value="80%   (4/5)"/>
+            <coverage type="block, %" value="83%   (24/29)"/>
+            <coverage type="line, %" value="83%   (24/29)"/>
+            <method name="CreateProgressThread">
+              <coverage type="method, %" value="100%   (1/1)"/>
+              <coverage type="block, %" value="100%   (8/8)"/>
+              <coverage type="line, %" value="100%   (8/8)"/>
+            </method>
+            <method name="TimerTimer">
+              <coverage type="method, %" value="0%   (0/1)"/>
+              <coverage type="block, %" value="0%   (0/4)"/>
+              <coverage type="line, %" value="0%   (0/4)"/>
+            </method>
+            <method name="btnCreateThreadClick">
+              <coverage type="method, %" value="100%   (1/1)"/>
+              <coverage type="block, %" value="83%   (5/6)"/>
+              <coverage type="line, %" value="83%   (5/6)"/>
+            </method>
+            <method name="FormCreate">
+              <coverage type="method, %" value="100%   (1/1)"/>
+              <coverage type="block, %" value="100%   (4/4)"/>
+              <coverage type="line, %" value="100%   (4/4)"/>
+            </method>
+            <method name="FormDestroy">
+              <coverage type="method, %" value="100%   (1/1)"/>
+              <coverage type="block, %" value="100%   (7/7)"/>
+              <coverage type="line, %" value="100%   (7/7)"/>
+            </method>
+          </class>
+        </srcfile>
+      </package>
+      <package name="uTarefa1">
+        <coverage type="class, %" value="100%   (1/1)"/>
+        <coverage type="method, %" value="100%   (4/4)"/>
+        <coverage type="block, %" value="100%   (25/25)"/>
+        <coverage type="line, %" value="100%   (25/25)"/>
+        <srcfile name="uTarefa1.pas">
+          <coverage type="class, %" value="100%   (1/1)"/>
+          <coverage type="method, %" value="100%   (4/4)"/>
+          <coverage type="block, %" value="100%   (25/25)"/>
+          <coverage type="line, %" value="100%   (25/25)"/>
+          <class name="TufTarefa1">
+            <coverage type="class, %" value="100%   (1/1)"/>
+            <coverage type="method, %" value="100%   (4/4)"/>
+            <coverage type="block, %" value="100%   (25/25)"/>
+            <coverage type="line, %" value="100%   (25/25)"/>
+            <method name="GeraSQL">
+              <coverage type="method, %" value="100%   (1/1)"/>
+              <coverage type="block, %" value="100%   (11/11)"/>
+              <coverage type="line, %" value="100%   (11/11)"/>
+            </method>
+            <method name="btnGeraSQLClick">
+              <coverage type="method, %" value="100%   (1/1)"/>
+              <coverage type="block, %" value="100%   (4/4)"/>
+              <coverage type="line, %" value="100%   (4/4)"/>
+            </method>
+            <method name="FormCreate">
+              <coverage type="method, %" value="100%   (1/1)"/>
+              <coverage type="block, %" value="100%   (4/4)"/>
+              <coverage type="line, %" value="100%   (4/4)"/>
+            </method>
+            <method name="Clear">
+              <coverage type="method, %" value="100%   (1/1)"/>
+              <coverage type="block, %" value="100%   (6/6)"/>
+              <coverage type="line, %" value="100%   (6/6)"/>
+            </method>
+          </class>
+        </srcfile>
+      </package>
+    </all>
+  </data>
+</report>

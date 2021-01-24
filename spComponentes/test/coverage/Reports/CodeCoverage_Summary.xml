@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<report>
+  <stats>
+    <packages value="2"/>
+    <classes value="2"/>
+    <methods value="9"/>
+    <srcfiles value="2"/>
+    <srclines value="65"/>
+    <totallines value="65"/>
+    <coveredlines value="65"/>
+    <coveredpercent value="100"/>
+  </stats>
+  <data>
+    <all name="all classes">
+      <coverage type="class, %" value="100%   (2/2)"/>
+      <coverage type="method, %" value="100%   (9/9)"/>
+      <coverage type="block, %" value="100%   (65/65)"/>
+      <coverage type="line, %" value="100%   (65/65)"/>
+      <package name="uspStringList">
+        <coverage type="class, %" value="100%   (1/1)"/>
+        <coverage type="method, %" value="100%   (2/2)"/>
+        <coverage type="block, %" value="100%   (11/11)"/>
+        <coverage type="line, %" value="100%   (11/11)"/>
+        <srcfile name="uspStringList.pas">
+          <coverage type="class, %" value="100%   (1/1)"/>
+          <coverage type="method, %" value="100%   (2/2)"/>
+          <coverage type="block, %" value="100%   (11/11)"/>
+          <coverage type="line, %" value="100%   (11/11)"/>
+          <class name="TspStringList">
+            <coverage type="class, %" value="100%   (1/1)"/>
+            <coverage type="method, %" value="100%   (2/2)"/>
+            <coverage type="block, %" value="100%   (11/11)"/>
+            <coverage type="line, %" value="100%   (11/11)"/>
+            <method name="Add">
+              <coverage type="method, %" value="100%   (1/1)"/>
+              <coverage type="block, %" value="100%   (7/7)"/>
+              <coverage type="line, %" value="100%   (7/7)"/>
+            </method>
+            <method name="Create">
+              <coverage type="method, %" value="100%   (1/1)"/>
+              <coverage type="block, %" value="100%   (4/4)"/>
+              <coverage type="line, %" value="100%   (4/4)"/>
+            </method>
+          </class>
+        </srcfile>
+      </package>
+      <package name="uspQuery">
+        <coverage type="class, %" value="100%   (1/1)"/>
+        <coverage type="method, %" value="100%   (7/7)"/>
+        <coverage type="block, %" value="100%   (54/54)"/>
+        <coverage type="line, %" value="100%   (54/54)"/>
+        <srcfile name="uspQuery.pas">
+          <coverage type="class, %" value="100%   (1/1)"/>
+          <coverage type="method, %" value="100%   (7/7)"/>
+          <coverage type="block, %" value="100%   (54/54)"/>
+          <coverage type="line, %" value="100%   (54/54)"/>
+          <class name="TspQuery">
+            <coverage type="class, %" value="100%   (1/1)"/>
+            <coverage type="method, %" value="100%   (7/7)"/>
+            <coverage type="block, %" value="100%   (54/54)"/>
+            <coverage type="line, %" value="100%   (54/54)"/>
+            <method name="Clear">
+              <coverage type="method, %" value="100%   (1/1)"/>
+              <coverage type="block, %" value="100%   (6/6)"/>
+              <coverage type="line, %" value="100%   (6/6)"/>
+            </method>
+            <method name="SetspCondicoes">
+              <coverage type="method, %" value="100%   (1/1)"/>
+              <coverage type="block, %" value="100%   (3/3)"/>
+              <coverage type="line, %" value="100%   (3/3)"/>
+            </method>
+            <method name="GeraSQL">
+              <coverage type="method, %" value="100%   (1/1)"/>
+              <coverage type="block, %" value="100%   (23/23)"/>
+              <coverage type="line, %" value="100%   (23/23)"/>
+            </method>
+            <method name="Create">
+              <coverage type="method, %" value="100%   (1/1)"/>
+              <coverage type="block, %" value="100%   (8/8)"/>
+              <coverage type="line, %" value="100%   (8/8)"/>
+            </method>
+            <method name="SetspColunas">
+              <coverage type="method, %" value="100%   (1/1)"/>
+              <coverage type="block, %" value="100%   (3/3)"/>
+              <coverage type="line, %" value="100%   (3/3)"/>
+            </method>
+            <method name="Destroy">
+              <coverage type="method, %" value="100%   (1/1)"/>
+              <coverage type="block, %" value="100%   (6/6)"/>
+              <coverage type="line, %" value="100%   (6/6)"/>
+            </method>
+            <method name="SetspTabelas">
+              <coverage type="method, %" value="100%   (1/1)"/>
+              <coverage type="block, %" value="100%   (5/5)"/>
+              <coverage type="line, %" value="100%   (5/5)"/>
+            </method>
+          </class>
+        </srcfile>
+      </package>
+    </all>
+  </data>
+</report>
