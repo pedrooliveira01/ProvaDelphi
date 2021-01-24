@@ -60,6 +60,7 @@
 # Delphi history and backups
 __history/
 __recovery/
+Reports/
 *.~*
 
 # Castalia statistics file (since XE7 Castalia is distributed with Delphi)
@@ -67,3 +68,5 @@ __recovery/
 
 # Boss dependency manager vendor folder https://github.com/HashLoad/boss
 modules/
+/ProvaDelphiApp/test/coverage/Delphi-Code-Coverage-Debug.log
+/spComponentes/test/coverage/Delphi-Code-Coverage-Debug.log
